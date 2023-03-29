@@ -3,7 +3,7 @@
 
 This project focuses on using Azure AutoML and Python SDK to build a time series forecasting model for sales. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future sales with high accuracy, enabling businesses to make data-driven decisions and optimize their sales strategies.
 
-I have worked using data from a recent Kaggle competition found [here](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview).
+I have worked using data from a recent Kaggle competition called [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview).
 
 
 
