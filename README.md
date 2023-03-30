@@ -1,15 +1,9 @@
 
-# Time Series Sales Forecasting with Azure AutoML and Python SDK
+# Air Quality Forecasting using Azure AutoML in Python
 
-This project focuses on using Azure AutoML and Python SDK to build a time series forecasting model for sales. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future sales with high accuracy, enabling businesses to make data-driven decisions and optimize their sales strategies.
+This project focuses on using Azure AutoML and Python SDK to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and idividuals to make data-driven decisions to combat air pollution.
 
-I have worked using data from a recent Kaggle competition called [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview).
-
-
-
-
-
-
+The research dataset was sourced from [Open Government Data (OGD) Platform India - Tamil Nadu](https://tn.data.gov.in/catalog/historical-daily-ambient-air-quality-data) and underwent cleaning and preparation after being downloaded.
 
 ## Environment Variables
 
