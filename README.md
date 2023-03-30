@@ -1,4 +1,4 @@
-
+![banner](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/repo_banner.png)
 # Air Quality Forecasting using Azure AutoML in Python
 
 This project focuses on using Azure AutoML and Python SDK to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and idividuals to make data-driven decisions to combat air pollution.
