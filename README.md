@@ -16,6 +16,8 @@ AutoML can be used for the following tasks
 
 Because our problem statement is regarding time series forecasting, we can use Azure AutoML to iterate over a number of algorithms to find the best fit. By default, Azure AutoML deploys the following algorithms.
 
+|                     |                             |                      |                 |
+|---------------------|-----------------------------|----------------------|-----------------|
 | AutoARIMA           | Decision Tree               | ForecastTCN          | Naive           |
 | Prophet             | Arimax                      | Gradient Boosting    | SeasonalAverage |
 | Elastic Net         | LARS Lasso                  | ExponentialSmoothing |                 |
@@ -36,9 +38,9 @@ To run this project in Azure AutoML, you will need to add the following environm
 
 Throughtout the years, the number of monitoring stations in Tamil Nadu has increased, as well as their capabilities. The very early years of 1987 had very few agencies that were only able to detect a few types of pollutants. In 2015, we now have data on SO2, NO2, RSPM/PM10, and SPM levels across 11 different monitoring agencies.
 
-
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
 |                                                  | 2010  | 2011  | 2012  | 2013  | 2014  | 2015  |
-|--------------------------------------------------|-------|-------|-------|-------|-------|-------|
+|──────────────────────────────────────────────────|-------|-------|-------|-------|-------|-------|
 | Kathivakkam, Municipal Kalyana Mandapam, Chennai | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
 | Govt. High School, Manali, Chennai.              | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
 | Thiruvottiyur, Chennai                           | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
@@ -50,6 +52,8 @@ Throughtout the years, the number of monitoring stations in Tamil Nadu has incre
 | Thiyagaraya Nagar, Chennai                       | N     | N     | N     | **Y** | **Y** | **Y** |
 | Kilpauk, Chennai                                 | N     | N     | N     | **Y** | **Y** | **Y** |
 | Vallalar Nagar, Chennai                          | N     | N     | N     | N     | N     | **Y** |
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
 
 We will be forecasting air pollution in three different areas due to the availability of the data (Kathivakkam, Manali, and Thiruvottiyur) in the years 2010-2015. Coincidentally, all three areas fall under Industrial locations and will therefore see pollutant levels that are higher than that of the surrounding residential areas.
 
@@ -58,14 +62,14 @@ We will be forecasting air pollution in three different areas due to the availab
 
 The raw data from the repository is converted to CSV. It also has a messy data column with mixed formats, and there are some rows with NaN values.
 
-| Sampling Date |     |     |     |     |
-|---------------|-----|-----|-----|-----|
-| 1/7/2014      |     |     |     |     |
-| 21-01-14      |     |     |     |     |
-| 2/4/2014      |     |     |     |     |
-| 2/6/2014      |     |     |     |     |
-| 2/11/2014     |     |     |     |     |
-| 02-13-14      |     |     |     |     |
+| Sampling Date |     |     |     |           | Sampling Date |     |     |     |
+|---------------|-----|-----|-----|           |---------------|-----|-----|-----|
+| 1/7/2014      |     |     |     |           | 07/01/2014    |     |     |     |
+| 21-01-14      |     |     |     |    -->    | 21/01/2014    |     |     |     |
+| 2/4/2014      |     |     |     |           | 04/02/2014    |     |     |     |
+| 2/6/2014      |     |     |     |           | 06/02/2014    |     |     |     |
+| 2/11/2014     |     |     |     |           | 11/02/2014    |     |     |     |     
+| 02-13-14      |     |     |     |           | 13/02/2014    |     |     |     | 
 
 The data is first cleaned and preprocessed using Pandas to regularise the date formats and interpolate the missing values. Since the dataset is available yearwise, we also need to append all of the cleaned files to create our training set.
 
