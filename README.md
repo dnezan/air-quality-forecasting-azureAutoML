@@ -112,14 +112,21 @@ Note that this method is only an approximation and may not be as accurate as the
 
 | AQI             | Rating                                                                |
 | --------------- | ------------------------------------------------------------------ |
-| 0-50    | ![Good](https://via.placeholder.com/10/0a192f?text=+) Good |
-| 51-100  | ![Satisfactory](https://via.placeholder.com/10/f8f8f8?text=+) Satisfactory |
-| 101-200 | ![Moderate](https://via.placeholder.com/10/00b48a?text=+) Moderate |
-| 201-300 | ![Poor](https://via.placeholder.com/10/00b48a?text=+) Poor |
-| 301-400 | ![Very Poor](https://via.placeholder.com/10/00b48a?text=+) Very Poor |
-| 401-500 | ![Severe](https://via.placeholder.com/10/00b48a?text=+) Severe |
+| 0-50    | ![Good](https://via.placeholder.com/10/00ff00?text=+) Good |
+| 51-100  | ![Satisfactory](https://via.placeholder.com/10/7fff00?text=+) Satisfactory |
+| 101-200 | ![Moderate](https://via.placeholder.com/10/ffff00?text=+) Moderate |
+| 201-300 | ![Poor](https://via.placeholder.com/10/ffa500?text=+) Poor |
+| 301-400 | ![Very Poor](https://via.placeholder.com/10/ff4500?text=+) Very Poor |
+| 401-500 | ![Severe](https://via.placeholder.com/10/ff0000?text=+) Severe |
 
 
 ## References
 
  - [AutoML Forecasting Bike Share](https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/automl-standalone-jobs/automl-forecasting-task-bike-share/auto-ml-forecasting-bike-share.ipynb)
+
+ # (green)
+#7FFF00 (chartreuse)
+#FFFF00 (yellow)
+#FFA500 (orange)
+#FF4500 (orange-red)
+#FF0000 (red)
