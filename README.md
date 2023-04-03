@@ -7,13 +7,30 @@ The research dataset was sourced from [Open Government Data (OGD) Platform India
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your config.json file
+To run this project in Azure AutoML, you will need to add the following environment variables to your config.json file
 
 `subscription_id`
 
 `resource_group`
 
 `workspace-name`
+
+
+## Data Preprocessing
+
+The raw data from the repository is converted to CSV. It also has a messy data column with mixed formats, and there are some rows wit NaN values. The data is first cleaned and preprocessed using Pandas to regularise the date formats and interpolate the missing values.
+
+| Sampling Date |   |   |   |   |
+|---------------|---|---|---|---|
+| 1/7/2014      |   |   |   |   |
+| 21-01-14      |   |   |   |   |
+| 30-01-14      |   |   |   |   |
+| 2/4/2014      |   |   |   |   |
+| 2/6/2014      |   |   |   |   |
+| 2/11/2014     |   |   |   |   |
+| 02-13-14      |   |   |   |   |
+| 02-18-14      |   |   |   |   |
+
 
 ## References
 
