@@ -15,6 +15,20 @@ To run this project in Azure AutoML, you will need to add the following environm
 
 `workspace-name`
 
+|                                                  | 2010  | 2011  | 2012  | 2013  | 2014  | 2015  |
+|--------------------------------------------------|-------|-------|-------|-------|-------|-------|
+| Kathivakkam, Municipal Kalyana Mandapam, Chennai | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
+| Govt. High School, Manali, Chennai.              | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
+| Thiruvottiyur, Chennai                           | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
+| Madras Medical College, Chennai                  | **Y** | **Y** | **Y** | N     | **Y** | **Y** |
+| NEERI, CSIR Campus Chennai                       | **Y** | **Y** | **Y** | N     | **Y** | **Y** |
+| Thiruvottiyur Municipal Office, Chennai          | **Y** | **Y** | **Y** | N     | **Y** | **Y** |
+| Adyar, Chennai                                   | N     | N     | N     | **Y** | **Y** | **Y** |
+| Anna Nagar, Chennai                              | N     | N     | N     | **Y** | **Y** | **Y** |
+| Thiyagaraya Nagar, Chennai                       | N     | N     | N     | **Y** | **Y** | **Y** |
+| Kilpauk, Chennai                                 | N     | N     | N     | **Y** | **Y** | **Y** |
+| Vallalar Nagar, Chennai                          | N     | N     | N     | N     | N     | **Y** |
+
 
 ## Data Preprocessing
 
