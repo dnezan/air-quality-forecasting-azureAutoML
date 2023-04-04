@@ -24,6 +24,8 @@ Because our problem statement is regarding time series forecasting, we can use A
 | Light GBM           | Extremely Randomized Trees* | SeasonalNaive        |                 |
 | K Nearest Neighbors | Random Forest               | Average              |                 |
 
+Since this is a proof of concept, we will compare algorithm performance between **AutoARIMA**, **Prophet**, **Arimax**, and **ForecastTCN** (Deep Neural Network).
+
 ## Environment Variables
 
 To run this project in Azure AutoML, you will need to add the following environment variables to your config.json file
@@ -82,6 +84,40 @@ The data is first cleaned and preprocessed using Pandas to regularise the date f
 
 Since the dataset is available yearwise, we also need to append all of the cleaned files to create our training set.
 
+## Setting up Azure AutoML
+
+Azure AutoML is a service by Azure that can create a number of parallel pipelines that execute various algorithms. It iterates through a selection of algorithms where each model is produced along with its respective training score. It has numerous advantages, the most prominent of which is time saving and computation cost, since it can automatically perform feature engineering, model evaluation, model deployement, and other tasks related to time series forecasting.
+
+To set up Azure AutoML, we use the AutoML SDK v2, but you can also set up your experiments by using the GUI on the Azure Portal.
+
+1. Create your ML_client connection using your Azure workspace credentials.
+2. Import training and testing data in MLTable format.
+3. Create forecasting experiment along with various training properties. We can specify holidays, what algorithms to block, and other training configurations like timeout and forecast window. Since we are only training on a specific number of algorithms, we need to block all of the others. We also need to enable deep learning in order to make use of the TCN Deep Neural Network Forecaster.
+4. Begin the experiment. Once the models have been trained, you can compare model performance using RMSE (root mean square error). 
+5. Optionally, you can deploy your model as an endpoint in order to use it in an application.
+
+## Model Evaluation
+
+We compare the performance between AutoARIMA, Prophet, and TCNForecaster.
+
+```python
+import matplotlib.pyplot as plt
+
+prophet_mape = 0.11474
+autoARIMA_mape = 0.06172
+tcn_mape = 0.04665
+
+fig, ax = plt.subplots(figsize=(7, 5))
+x = ['Prophet', 'autoARIMA', 'TCN Forecaster']
+y = [prophet_mape, autoARIMA_mape, tcn_mape]
+ax.bar(x, y, width=0.4)
+ax.set_xlabel('Regressor models')
+ax.set_ylabel('RMSE')
+ax.set_ylim(0, 1)
+
+plt.show()
+```
+
 ## Inferences
 
 To calculate the Air Quality Index (AQI) in India, you need to have the concentrations of all eight pollutants, including PM2.5, ozone (O3), carbon monoxide (CO), ammonia (NH3), and lead (Pb), in addition to SO2, NO2, and SPM/PM10. However, if you only have the concentrations of SO2, NO2, and SPM/PM10, you can still calculate the AQI using a simplified method.
@@ -108,8 +144,6 @@ The simplified method involves the following steps:
 
 Note that this method is only an approximation and may not be as accurate as the official CPCB method, which takes into account the concentrations of all eight pollutants.
 
-## Inferences
-
 | AQI             | Rating                                                                |
 | --------------- | ------------------------------------------------------------------ |
 | 0-50    | ![Good](https://via.placeholder.com/10/00ff00?text=+) Good |
@@ -119,14 +153,8 @@ Note that this method is only an approximation and may not be as accurate as the
 | 301-400 | ![Very Poor](https://via.placeholder.com/10/ff4500?text=+) Very Poor |
 | 401-500 | ![Severe](https://via.placeholder.com/10/ff0000?text=+) Severe |
 
+Using these labels, this problem statement can also be extended into a classification problem in order to predict future air quality index in Chennai.
 
 ## References
 
  - [AutoML Forecasting Bike Share](https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/automl-standalone-jobs/automl-forecasting-task-bike-share/auto-ml-forecasting-bike-share.ipynb)
-
- # (green)
-#7FFF00 (chartreuse)
-#FFFF00 (yellow)
-#FFA500 (orange)
-#FF4500 (orange-red)
-#FF0000 (red)
