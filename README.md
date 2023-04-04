@@ -43,9 +43,9 @@ Throughtout the years, the number of monitoring stations in Tamil Nadu has incre
 
 |                                                  | 2010  | 2011  | 2012  | 2013  | 2014  | 2015  |
 |--------------------------------------------------|-------|-------|-------|-------|-------|-------|
-| Kathivakkam, Municipal Kalyana Mandapam, Chennai | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
-| Govt. High School, Manali, Chennai.              | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
-| Thiruvottiyur, Chennai                           | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
+| **Kathivakkam, Municipal Kalyana Mandapam, Chennai** | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
+| **Govt. High School, Manali, Chennai.**              | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
+| **Thiruvottiyur, Chennai**                           | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
 | Madras Medical College, Chennai                  | **Y** | **Y** | **Y** | N     | **Y** | **Y** |
 | NEERI, CSIR Campus Chennai                       | **Y** | **Y** | **Y** | N     | **Y** | **Y** |
 | Thiruvottiyur Municipal Office, Chennai          | **Y** | **Y** | **Y** | N     | **Y** | **Y** |
