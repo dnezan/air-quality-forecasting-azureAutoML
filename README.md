@@ -103,10 +103,6 @@ We compare the performance between AutoARIMA, Prophet, and TCNForecaster.
 ```python
 import matplotlib.pyplot as plt
 
-prophet_mape = 0.11474
-autoARIMA_mape = 0.06172
-tcn_mape = 0.04665
-
 fig, ax = plt.subplots(figsize=(7, 5))
 x = ['Prophet', 'autoARIMA', 'TCN Forecaster']
 y = [prophet_mape, autoARIMA_mape, tcn_mape]
@@ -117,6 +113,8 @@ ax.set_ylim(0, 1)
 
 plt.show()
 ```
+
+![rmse](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/rmse.png)
 
 ## Inferences
 
