@@ -115,6 +115,12 @@ plt.show()
 ```
 
 ![rmse](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/rmse.png)
+*RMSE value comparison*
+
+Let us predict the value of NO2 emissions for Kathivakkam, Municipal Kalyana Mandapam, Chennai using our new model.
+
+![forecast](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/forecast_100days.png)
+*Forecast window = 100 days*
 
 ## Inferences
 
