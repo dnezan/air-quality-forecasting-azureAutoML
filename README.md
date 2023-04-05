@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/repo_banner.png)
+![banner](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/repo_banner.png?token=GHSAT0AAAAAAB7WFMCSPTHSGWXNAXQXTXWOZBNLS3Q)
 # Air Quality Forecasting using Azure AutoML in Python
 
 ## Overview
@@ -114,12 +114,11 @@ ax.set_ylim(0, 1)
 plt.show()
 ```
 
-![rmse](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/rmse.png)
-*RMSE value comparison*
+![rmse](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/rmse.png?token=GHSAT0AAAAAAB7WFMCTAC7TBACZOPGW4STGZBNLU4A)
 
 Let us predict the value of NO2 emissions for Kathivakkam, Municipal Kalyana Mandapam, Chennai using our new model.
 
-![forecast](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/forecast_100days.png)
+![forecast](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/forecast_100days.png?token=GHSAT0AAAAAAB7WFMCTF7P6MIV6G5ZZZIJWZBNLVSA)
 *Forecast window = 100 days*
 
 ## Inferences
@@ -139,14 +138,6 @@ The simplified method involves the following steps:
 3. Report the AQI based on the highest sub-index, using the following table:
    AQI = (Highest sub-index / 50) x 100
    Range of AQI values:
-	- 0-50: Good
-	- 51-100: Satisfactory
-	- 101-200: Moderate
-	- 201-300: Poor
-	- 301-400: Very Poor
-	- 401-500: Severe
-
-Note that this method is only an approximation and may not be as accurate as the official CPCB method, which takes into account the concentrations of all eight pollutants.
 
 | AQI             | Rating                                                                |
 | --------------- | ------------------------------------------------------------------ |
@@ -156,6 +147,8 @@ Note that this method is only an approximation and may not be as accurate as the
 | 201-300 | ![Poor](https://via.placeholder.com/10/ffa500?text=+) Poor |
 | 301-400 | ![Very Poor](https://via.placeholder.com/10/ff4500?text=+) Very Poor |
 | 401-500 | ![Severe](https://via.placeholder.com/10/ff0000?text=+) Severe |
+
+Note that this method is only an approximation and may not be as accurate as the official CPCB method, which takes into account the concentrations of all eight pollutants.
 
 Using these labels, this problem statement can also be extended into a classification problem in order to predict future air quality index in Chennai.
 
