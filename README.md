@@ -38,10 +38,16 @@ To run this project in Azure AutoML, you will need to add the following environm
 
 ## Dataset
 
-Throughtout the years, the number of monitoring stations in Tamil Nadu has increased, as well as their capabilities. The very early years of 1987 had very few agencies that were only able to detect a few types of pollutants. In 2015, we now have data on SO2, NO2, RSPM/PM10, and SPM levels across 11 different monitoring agencies. To choose a high quality subset of data, we want to choose from locations that have consistent readings for pollutants in recent years. 
+Throughtout the years, the number of monitoring stations in Tamil Nadu has increased, as well as their capabilities. The very early years of 1987 had very few agencies that were only able to detect a few types of pollutants. In 2015, we now have data on SO2, NO2, RSPM/PM10, and SPM levels across 11 different monitoring agencies. 
 
+| Sampling Date | Location of Monitoring Station | SO2 | NO2 | RSPM/PM10 | SPM | PM2.5 |
+|---------------|--------------------------------|-----|-----|-----------|-----|-------|
+|               |                                |     |     |           |     |       |
+|               |                                |     |     |           |     |       |
 
-|                                                  | 2010  | 2011  | 2012  | 2013  | 2014  | 2015  |
+To choose a high quality subset of data, we want to choose from locations that have consistent readings for pollutants in recent years. 
+
+| Location of Monitoring Station                   | 2010  | 2011  | 2012  | 2013  | 2014  | 2015  |
 |--------------------------------------------------|-------|-------|-------|-------|-------|-------|
 | **Kathivakkam, Municipal Kalyana Mandapam, Chennai** | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
 | **Govt. High School, Manali, Chennai.**              | **Y** | **Y** | **Y** | **Y** | **Y** | **Y** |
