@@ -3,7 +3,9 @@
 
 ## Overview
  
-This project focuses on using Azure AutoML and Python SDK to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution.
+This project focuses on using **Azure AutoML** and **Python SDK** to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution.
+
+![diagram](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/azure_air_forecasting (2).png?raw=true)
 
 The research dataset was sourced from [Open Government Data (OGD) Platform India - Tamil Nadu](https://tn.data.gov.in/catalog/historical-daily-ambient-air-quality-data) and underwent cleaning and preparation after being downloaded.
 
@@ -38,7 +40,7 @@ To run this project in Azure AutoML, you will need to add the following environm
 
 ## Dataset
 
-Throughtout the years, the number of monitoring stations in Tamil Nadu has increased, as well as their capabilities. The very early years of 1987 had very few agencies that were only able to detect a few types of pollutants. In 2015, we now have data on SO2, NO2, RSPM/PM10, and SPM levels across 11 different monitoring agencies. 
+Throughout the years, the number of monitoring stations in Tamil Nadu has increased, as well as their capabilities. The very early years of 1987 had very few agencies that were only able to detect a few types of pollutants. In 2015, we now have data on SO2, NO2, RSPM/PM10, and SPM levels across 11 different monitoring agencies. 
 
 | Sampling Date | Location of Monitoring Station | SO2 | NO2 | RSPM/PM10 | SPM | PM2.5 |
 |---------------|--------------------------------|-----|-----|-----------|-----|-------|
@@ -176,7 +178,8 @@ Using these labels, this problem statement can also be extended into a classific
 
 By using the formula above, assuming NO2 is the primary pollutant in Chennai, the average of our 100=day forecast window gives us an average pollutant concentration level of 15.87, which gives us a **Good** air quality rating.
 
-AQI = 15.8![Good](https://via.placeholder.com/30/00ff00?text=+) Good
+AQI = 15.8
+![Good](https://via.placeholder.com/30/00ff00?text=+) Good
 
 ## References
 
