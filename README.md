@@ -135,7 +135,7 @@ plt.show()
 
 ![rmse](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/rmse.png?token=GHSAT0AAAAAAB7WFMCTAC7TBACZOPGW4STGZBNLU4A)
 
-Normalised RMSE is a metric used to compare model performance on a scale of 0-1. The closer the value of nRMSE is to 0, the better the performance. Therefore, our best performing model is our deep learning algorithm. 
+**Normalised RMSE** is a metric used to compare model performance on a scale of 0-1. The closer the value of nRMSE is to 0, the better the performance. Therefore, our best performing model is our deep learning algorithm. 
 Let us predict the value of NO2 emissions for Kathivakkam, Municipal Kalyana Mandapam, Chennai using our new model.
 
 ![forecast](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/forecast_100days.png?token=GHSAT0AAAAAAB7WFMCTF7P6MIV6G5ZZZIJWZBNLVSA)
@@ -171,6 +171,12 @@ The simplified method involves the following steps:
 Note that this method is only an approximation and may not be as accurate as the official CPCB method, which takes into account the concentrations of all eight pollutants.
 
 Using these labels, this problem statement can also be extended into a classification problem in order to predict future air quality index in Chennai.
+
+## Conclusion
+
+By using the formula above, assuming NO2 is the primary pollutant in Chennai, the average of our 100=day forecast window gives us an average pollutant concentration level of 15.87, which gives us a **Good** air quality rating.
+
+AQI = 15.8![Good](https://via.placeholder.com/30/00ff00?text=+) Good
 
 ## References
 
