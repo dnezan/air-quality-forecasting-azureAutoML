@@ -5,7 +5,7 @@
  
 This project focuses on using **Azure AutoML** and **Python SDK** to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution.
 
-![diagram](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/azure_air_forecasting (2).png?raw=true)
+![diagram](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/azure_air_forecasting.png?raw=true)
 
 The research dataset was sourced from [Open Government Data (OGD) Platform India - Tamil Nadu](https://tn.data.gov.in/catalog/historical-daily-ambient-air-quality-data) and underwent cleaning and preparation after being downloaded.
 
