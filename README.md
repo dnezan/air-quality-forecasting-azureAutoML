@@ -63,7 +63,6 @@ To choose a high quality subset of data, we want to choose from locations that h
 
 We will be forecasting air pollution in three different areas due to the availability of data (Kathivakkam, Manali, and Thiruvottiyur) in the years 2010-2015. Coincidentally, all three areas fall under Industrial locations and will therefore see pollutant levels that are higher than that of the surrounding residential areas.
 
-
 ## Data Preprocessing
 
 The raw data from the repository is converted to CSV. It also has a messy data column with mixed formats, and there are some rows with NaN values. The dates are converted from %m/%d/%Y, %d-%m-%Y, and %d/%m/%Y to %d/%m/%Y.
@@ -89,6 +88,16 @@ The data is first cleaned and preprocessed using Pandas to regularise the date f
 | 13/02/2014    |     |     |     | 
 
 Since the dataset is available yearwise, we also need to append all of the cleaned files to create our training set.
+
+![img1](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/data_no_interpolation.png?raw=true)
+*Dataset before interpolation*
+
+![img2](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/data_interpolation.png?raw=true)
+*Dataset after interpolation*
+
+![img3](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/thiruv_daily_data.png?raw=true)
+*Daily NO2 data for Thiruvottiyur*
+
 
 ## Setting up Azure AutoML
 
