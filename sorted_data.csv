@@ -1,468 +1,1698 @@
-Sampling Date,Location of Monitoring Station,SO2,NO2,RSPM/PM10,SPM,PM 2.5
-2010-01-06,"Thiruvottiyur,  Chennai",14.75,25.73333333,105.0,353.6666667,
-2010-01-08,"Thiruvottiyur,  Chennai",15.06666667,26.66666667,83.33333333,140.6666667,
-2010-01-13,"Thiruvottiyur,  Chennai",13.6,23.93333333,91.33333333,126.6666667,
-2010-01-20,"Thiruvottiyur,  Chennai",11.48333333,20.41666667,174.6666667,317.6666667,
-2010-01-22,"Thiruvottiyur,  Chennai",11.63333333,20.43333333,155.3333333,362.3333333,
-2010-01-22,"Thiruvottiyur,  Chennai",11.63333333,20.43333333,155.3333333,362.3333333,
-2010-01-29,"Thiruvottiyur,  Chennai",25.63333333,21.55,138.3333333,266.0,
-2010-02-03,"Thiruvottiyur,  Chennai",14.43333333,24.61666667,109.6666667,237.3333333,
-2010-02-05,"Thiruvottiyur,  Chennai",11.03333333,19.1,109.3333333,192.6666667,
-2010-02-10,"Thiruvottiyur,  Chennai",13.3,20.85,72.33333333,161.3333333,
-2010-02-12,"Thiruvottiyur,  Chennai",8.65,12.95,52.0,115.6666667,
-2010-02-17,"Thiruvottiyur,  Chennai",8.983333333,13.98333333,82.66666667,134.6666667,
-2010-02-19,"Thiruvottiyur,  Chennai",9.6,13.91666667,80.66666667,167.3333333,
-2010-02-24,"Thiruvottiyur,  Chennai",15.15,27.0,110.3333333,256.0,
-2010-02-26,"Thiruvottiyur,  Chennai",11.38333333,18.06666667,88.66666667,170.0,
-2010-03-03,"Thiruvottiyur,  Chennai",15.23333333,24.48333333,89.66666667,183.3333333,
-2010-03-05,"Thiruvottiyur,  Chennai",11.15,18.53333333,84.33333333,212.0,
-2010-03-10,"Thiruvottiyur,  Chennai",14.23333333,24.46666667,71.33333333,144.6666667,
-2010-03-12,"Thiruvottiyur,  Chennai",10.35,17.8,49.66666667,105.6666667,
-2010-03-17,"Thiruvottiyur,  Chennai",17.95,30.55,83.33333333,159.0,
-2010-03-19,"Thiruvottiyur,  Chennai",14.75,24.51666667,67.0,130.0,
-2010-03-24,"Thiruvottiyur,  Chennai",11.55,16.98333333,76.0,167.0,
-2010-03-26,"Thiruvottiyur,  Chennai",8.65,13.41666667,60.33333333,115.0,
-2010-03-31,"Thiruvottiyur,  Chennai",14.3,24.36666667,83.66666667,160.3333333,
-2010-04-07,"Thiruvottiyur,  Chennai",12.45,21.16666667,54.66666667,107.0,
-2010-04-09,"Thiruvottiyur,  Chennai",11.01666667,18.03333333,50.33333333,106.3333333,
-2010-04-16,"Thiruvottiyur,  Chennai",10.15,16.96666667,43.0,113.3333333,
-2010-04-21,"Thiruvottiyur,  Chennai",11.83333333,21.65,59.33333333,153.6666667,
-2010-04-23,"Thiruvottiyur,  Chennai",12.61666667,21.48333333,51.66666667,115.6666667,
-2010-04-28,"Thiruvottiyur,  Chennai",17.26666667,28.11666667,49.0,116.3333333,
-2010-04-30,"Thiruvottiyur,  Chennai",13.63333333,23.16666667,59.0,121.0,
-2010-05-05,"Thiruvottiyur,  Chennai",13.5,22.12,118.0,224.3333333,
-2010-05-07,"Thiruvottiyur,  Chennai",14.22,26.7,45.33333333,100.3333333,
-2010-05-12,"Thiruvottiyur,  Chennai",11.46666667,19.66666667,52.66666667,99.66666667,
-2010-05-14,"Thiruvottiyur,  Chennai",11.53333333,20.78333333,50.66666667,86.0,
-2010-05-21,"Thiruvottiyur,  Chennai",13.66666667,23.36666667,59.33333333,136.3333333,
-2010-05-26,"Thiruvottiyur,  Chennai",11.9,21.0,64.66666667,269.0,
-2010-05-28,"Thiruvottiyur,  Chennai",15.61666667,22.65,30.66666667,72.0,
-2010-06-02,"Thiruvottiyur,  Chennai",8.7,13.23333333,62.66666667,154.6666667,
-2010-06-04,"Thiruvottiyur,  Chennai",14.58333333,25.7,91.33333333,197.6666667,
-2010-06-09,"Thiruvottiyur,  Chennai",11.76666667,20.08333333,66.33333333,95.0,
-2010-06-11,"Thiruvottiyur,  Chennai",12.61666667,21.4,80.66666667,116.0,
-2010-06-16,"Thiruvottiyur,  Chennai",16.0,13.85,46.5,115.5,
-2010-06-18,"Thiruvottiyur,  Chennai",13.8,23.88333333,73.0,128.0,
-2010-06-23,"Thiruvottiyur,  Chennai",12.15,20.2,94.66666667,204.0,
-2010-06-25,"Thiruvottiyur,  Chennai",12.86,18.74,109.3333333,330.0,
-2010-06-30,"Thiruvottiyur,  Chennai",12.78333333,21.38333333,69.0,144.3333333,
-2010-07-02,"Thiruvottiyur,  Chennai",12.26666667,20.11666667,70.33333333,171.0,
-2010-07-07,"Thiruvottiyur,  Chennai",11.63333333,19.78333333,55.0,92.66666667,
-2010-07-09,"Thiruvottiyur,  Chennai",10.95,18.75,66.66666667,107.3333333,
-2010-07-14,"Thiruvottiyur,  Chennai",13.21666667,23.38333333,74.66666667,134.0,
-2010-07-16,"Thiruvottiyur,  Chennai",13.21666667,21.05,59.0,110.3333333,
-2010-07-21,"Thiruvottiyur,  Chennai",16.41666667,20.11666667,116.6666667,163.0,
-2010-07-23,"Thiruvottiyur,  Chennai",10.4,17.88333333,82.33333333,191.0,
-2010-07-28,"Thiruvottiyur,  Chennai",12.63333333,21.16666667,124.3333333,182.6666667,
-2010-07-30,"Thiruvottiyur,  Chennai",10.6,17.83333333,74.66666667,133.0,
-2010-08-04,"Thiruvottiyur,  Chennai",10.13333333,16.28333333,69.33333333,179.0,
-2010-08-06,"Thiruvottiyur,  Chennai",12.61666667,21.08333333,57.66666667,144.3333333,
-2010-08-11,"Thiruvottiyur,  Chennai",12.53333333,21.81666667,67.33333333,147.0,
-2010-08-13,"Thiruvottiyur,  Chennai",11.51666667,18.88333333,63.0,117.6666667,
-2010-08-18,"Thiruvottiyur,  Chennai",12.2,20.65,75.5,178.0,
-2010-08-20,"Thiruvottiyur,  Chennai",9.633333333,14.93333333,56.66666667,117.3333333,
-2010-08-25,"Thiruvottiyur,  Chennai",13.35,20.83333333,56.33333333,82.66666667,
-2010-08-27,"Thiruvottiyur,  Chennai",14.88333333,18.51666667,242.3333333,328.3333333,
-2010-09-03,"Thiruvottiyur,  Chennai",15.36666667,24.81666667,45.0,77.33333333,
-2010-09-08,"Thiruvottiyur,  Chennai",9.9,16.91666667,64.0,159.6666667,
-2010-09-15,"Thiruvottiyur,  Chennai",11.6,19.51666667,60.66666667,162.3333333,
-2010-09-17,"Thiruvottiyur,  Chennai",9.033333333,12.68333333,64.0,137.6666667,
-2010-09-22,"Thiruvottiyur,  Chennai",14.55,24.15,47.66666667,110.6666667,
-2010-09-24,"Thiruvottiyur,  Chennai",9.35,13.28333333,57.66666667,119.6666667,
-2010-09-29,"Thiruvottiyur,  Chennai",11.41666667,19.85,52.0,99.0,
-2010-10-01,"Thiruvottiyur,  Chennai",11.56666667,19.66666667,90.33333333,114.6666667,
-2010-10-06,"Thiruvottiyur,  Chennai",12.58333333,21.35,117.6666667,142.6666667,
-2010-10-08,"Thiruvottiyur,  Chennai",10.45,16.08333333,108.3333333,154.0,
-2010-10-13,"Thiruvottiyur,  Chennai",12.23333333,20.08333333,160.0,292.3333333,
-2010-10-15,"Thiruvottiyur,  Chennai",11.96666667,20.73333333,144.6666667,289.3333333,
-2010-10-20,"Thiruvottiyur,  Chennai",11.6,19.03333333,98.0,127.0,
-2010-10-22,"Thiruvottiyur,  Chennai",13.45,23.2,136.0,238.3333333,
-2010-10-27,"Thiruvottiyur,  Chennai",10.63333333,17.45,107.6666667,201.3333333,
-2010-10-29,"Thiruvottiyur,  Chennai",15.86666667,20.81666667,83.0,129.6666667,
-2010-11-03,"Thiruvottiyur,  Chennai",9.32,14.14,79.66666667,146.6666667,
-2010-11-10,"Thiruvottiyur,  Chennai",12.63333333,21.9,98.66666667,153.3333333,
-2010-11-12,"Thiruvottiyur,  Chennai",10.58333333,17.5,98.0,142.6666667,
-2010-11-19,"Thiruvottiyur,  Chennai",9.316666667,13.11666667,84.0,137.0,
-2010-11-24,"Thiruvottiyur,  Chennai",10.95,18.3,131.3333333,221.0,
-2010-11-26,"Thiruvottiyur,  Chennai",14.96666667,18.78333333,110.0,187.6666667,
-2010-12-01,"Thiruvottiyur,  Chennai",13.66666667,21.63333333,70.66666667,114.0,
-2010-12-03,"Thiruvottiyur,  Chennai",11.35,20.26666667,103.3333333,171.6666667,
-2010-12-08,"Thiruvottiyur,  Chennai",12.28333333,18.76666667,89.0,128.6666667,
-2010-12-10,"Thiruvottiyur,  Chennai",10.46666667,13.73333333,132.0,212.6666667,
-2010-12-15,"Thiruvottiyur,  Chennai",12.43333333,18.66666667,79.33333333,153.3333333,
-2010-12-22,"Thiruvottiyur,  Chennai",,,,,
-2010-12-24,"Thiruvottiyur,  Chennai",15.31666667,18.86666667,55.33333333,180.0,
-2010-12-31,"Thiruvottiyur,  Chennai",12.8,20.75,120.6666667,223.6666667,
-2011-01-05,"Thiruvottiyur,  Chennai",13.0,19.0,98.0,,
-2011-01-07,"Thiruvottiyur,  Chennai",11.0,20.0,166.0,,
-2011-01-12,"Thiruvottiyur,  Chennai",9.0,12.0,149.0,,
-2011-01-14,"Thiruvottiyur,  Chennai",12.0,19.0,93.0,,
-2011-01-19,"Thiruvottiyur,  Chennai",12.0,20.0,73.0,,
-2011-01-21,"Thiruvottiyur,  Chennai",11.0,21.0,61.0,,
-2011-01-28,"Thiruvottiyur,  Chennai",9.0,13.0,73.0,,
-2011-02-02,"Thiruvottiyur,  Chennai",12.0,20.0,93.0,,
-2011-02-04,"Thiruvottiyur,  Chennai",12.0,20.0,128.0,,
-2011-02-09,"Thiruvottiyur,  Chennai",13.0,20.0,118.0,,
-2011-02-11,"Thiruvottiyur,  Chennai",11.0,19.0,133.0,,
-2011-02-17,"Thiruvottiyur,  Chennai",38.0,36.0,74.0,,
-2011-02-18,"Thiruvottiyur,  Chennai",11.0,14.0,64.0,,
-2011-02-23,"Thiruvottiyur,  Chennai",12.0,20.0,73.0,,
-2011-02-25,"Thiruvottiyur,  Chennai",12.0,19.0,89.0,,
-2011-03-02,"Thiruvottiyur,  Chennai",8.0,19.0,106.0,,
-2011-03-04,"Thiruvottiyur,  Chennai",15.0,23.0,81.0,,
-2011-03-09,"Thiruvottiyur,  Chennai",12.0,24.0,98.0,,
-2011-03-11,"Thiruvottiyur,  Chennai",11.0,22.0,40.0,,
-2011-03-16,"Thiruvottiyur,  Chennai",9.0,20.0,52.0,,
-2011-03-18,"Thiruvottiyur,  Chennai",12.0,12.0,57.0,,
-2011-03-23,"Thiruvottiyur,  Chennai",15.0,33.0,61.0,,
-2011-03-25,"Thiruvottiyur,  Chennai",14.0,12.0,42.0,,
-2011-03-30,"Thiruvottiyur,  Chennai",12.0,12.0,57.0,,
-2011-04-01,"Thiruvottiyur,  Chennai",10.0,30.0,89.0,,
-2011-04-06,"Thiruvottiyur,  Chennai",12.0,12.0,82.0,,
-2011-04-08,"Thiruvottiyur,  Chennai",11.0,13.0,35.0,,
-2011-04-15,"Thiruvottiyur,  Chennai",10.0,16.0,44.0,,
-2011-04-20,"Thiruvottiyur,  Chennai",9.0,16.0,50.0,,
-2011-04-27,"Thiruvottiyur,  Chennai",17.0,17.0,79.0,,
-2011-04-29,"Thiruvottiyur,  Chennai",9.0,19.0,67.0,,
-2011-05-04,"Thiruvottiyur,  Chennai",10.0,15.0,103.0,,
-2011-05-06,"Thiruvottiyur,  Chennai",9.0,12.0,70.0,,
-2011-05-11,"Thiruvottiyur,  Chennai",13.0,20.0,87.0,,
-2011-05-13,"Thiruvottiyur,  Chennai",9.0,13.0,69.0,,
-2011-05-18,"Thiruvottiyur,  Chennai",10.0,15.0,89.0,,
-2011-05-20,"Thiruvottiyur,  Chennai",9.0,13.0,54.0,,
-2011-05-25,"Thiruvottiyur,  Chennai",11.0,15.0,53.0,,
-2011-05-27,"Thiruvottiyur,  Chennai",9.0,13.0,76.0,,
-2011-06-01,"Thiruvottiyur,  Chennai",9.0,12.0,105.0,,
-2011-06-03,"Thiruvottiyur,  Chennai",9.0,15.0,58.0,,
-2011-06-08,"Thiruvottiyur,  Chennai",14.0,37.0,60.0,,
-2011-06-10,"Thiruvottiyur,  Chennai",18.0,23.0,67.0,,
-2011-06-15,"Thiruvottiyur,  Chennai",16.0,30.0,126.0,,
-2011-06-17,"Thiruvottiyur,  Chennai",9.0,50.0,101.0,,
-2011-06-22,"Thiruvottiyur,  Chennai",16.0,45.0,89.0,,
-2011-06-24,"Thiruvottiyur,  Chennai",12.0,17.0,66.0,,
-2011-06-29,"Thiruvottiyur,  Chennai",20.0,19.0,109.0,,
-2011-07-01,"Thiruvottiyur,  Chennai",11.0,13.0,120.0,,
-2011-07-06,"Thiruvottiyur,  Chennai",9.0,17.0,111.0,,
-2011-07-08,"Thiruvottiyur,  Chennai",14.0,31.0,75.0,,
-2011-07-13,"Thiruvottiyur,  Chennai",17.0,24.0,119.0,,
-2011-07-15,"Thiruvottiyur,  Chennai",12.0,19.0,102.0,,
-2011-07-20,"Thiruvottiyur,  Chennai",8.0,15.0,92.0,,
-2011-07-22,"Thiruvottiyur,  Chennai",17.0,19.0,105.0,,
-2011-07-27,"Thiruvottiyur,  Chennai",12.0,17.0,64.0,,
-2011-07-29,"Thiruvottiyur,  Chennai",17.0,17.0,65.0,,
-2011-08-03,"Thiruvottiyur,  Chennai",35.0,29.0,68.0,,
-2011-08-05,"Thiruvottiyur,  Chennai",37.0,33.0,51.0,,
-2011-08-10,"Thiruvottiyur,  Chennai",41.0,41.0,53.0,,
-2011-08-12,"Thiruvottiyur,  Chennai",41.0,38.0,63.0,,
-2011-08-19,"Thiruvottiyur,  Chennai",35.0,39.0,31.0,,
-2011-08-24,"Thiruvottiyur,  Chennai",42.0,32.0,52.0,,
-2011-08-26,"Thiruvottiyur,  Chennai",36.0,36.0,27.0,,
-2011-09-02,"Thiruvottiyur,  Chennai",14.0,29.0,61.0,,
-2011-09-07,"Thiruvottiyur,  Chennai",31.0,33.0,62.0,,
-2011-09-09,"Thiruvottiyur,  Chennai",30.0,37.0,53.0,,
-2011-09-14,"Thiruvottiyur,  Chennai",34.0,37.0,36.0,,
-2011-09-16,"Thiruvottiyur,  Chennai",35.0,29.0,53.0,,
-2011-09-21,"Thiruvottiyur,  Chennai",32.0,33.0,102.0,,
-2011-09-23,"Thiruvottiyur,  Chennai",35.0,34.0,54.0,,
-2011-09-28,"Thiruvottiyur,  Chennai",30.0,25.0,71.0,,
-2011-09-30,"Thiruvottiyur,  Chennai",31.0,31.0,77.0,,
-2011-10-07,"Thiruvottiyur,  Chennai",15.0,31.0,99.0,,
-2011-10-12,"Thiruvottiyur,  Chennai",29.0,33.0,67.0,,
-2011-10-14,"Thiruvottiyur,  Chennai",31.0,37.0,88.0,,
-2011-10-19,"Thiruvottiyur,  Chennai",30.0,35.0,112.0,,
-2011-10-21,"Thiruvottiyur,  Chennai",32.0,29.0,121.0,,
-2011-10-28,"Thiruvottiyur,  Chennai",25.0,29.0,67.0,,
-2011-11-02,"Thiruvottiyur,  Chennai",35.0,44.0,41.0,,
-2011-11-04,"Thiruvottiyur,  Chennai",38.0,52.0,22.0,,
-2011-11-09,"Thiruvottiyur,  Chennai",34.0,57.0,80.0,,
-2011-11-11,"Thiruvottiyur,  Chennai",25.0,48.0,87.0,,
-2011-11-16,"Thiruvottiyur,  Chennai",24.0,61.0,127.0,,
-2011-11-18,"Thiruvottiyur,  Chennai",27.0,49.0,120.0,,
-2011-11-23,"Thiruvottiyur,  Chennai",17.0,26.0,110.0,,
-2011-11-25,"Thiruvottiyur,  Chennai",19.0,33.0,47.0,,
-2011-11-30,"Thiruvottiyur,  Chennai",17.0,35.0,106.0,,
-2011-12-02,"Thiruvottiyur,  Chennai",18.0,33.0,112.0,,
-2011-12-07,"Thiruvottiyur,  Chennai",29.0,38.0,197.0,,
-2011-12-09,"Thiruvottiyur,  Chennai",28.0,20.0,52.0,,
-2011-12-14,"Thiruvottiyur,  Chennai",17.0,26.0,115.0,,
-2011-12-16,"Thiruvottiyur,  Chennai",12.0,23.0,121.0,,
-2011-12-21,"Thiruvottiyur,  Chennai",16.0,21.0,153.0,,
-2011-12-23,"Thiruvottiyur,  Chennai",10.0,15.0,134.0,,
-2011-12-28,"Thiruvottiyur,  Chennai",16.0,22.0,152.0,,
-2012-01-04,"Thiruvottiyur,  Chennai",14.0,22.0,39.0,,
-2012-01-06,"Thiruvottiyur,  Chennai",14.0,36.0,32.0,,
-2012-01-18,"Thiruvottiyur,  Chennai",15.0,18.0,37.0,,
-2012-01-20,"Thiruvottiyur,  Chennai",15.0,24.0,59.0,,
-2012-01-25,"Thiruvottiyur,  Chennai",17.0,21.0,88.0,,
-2012-01-27,"Thiruvottiyur,  Chennai",15.0,19.0,73.0,,
-2012-02-01,"Thiruvottiyur,  Chennai",15.0,31.0,70.0,,
-2012-02-03,"Thiruvottiyur,  Chennai",15.0,22.0,85.0,,
-2012-02-08,"Thiruvottiyur,  Chennai",11.0,24.0,79.0,,
-2012-02-10,"Thiruvottiyur,  Chennai",11.0,29.0,40.0,,
-2012-02-15,"Thiruvottiyur,  Chennai",15.0,23.0,58.0,,
-2012-02-17,"Thiruvottiyur,  Chennai",20.0,21.0,60.0,,
-2012-02-22,"Thiruvottiyur,  Chennai",20.0,30.0,57.0,,
-2012-02-29,"Thiruvottiyur,  Chennai",27.0,23.0,79.0,,
-2012-03-02,"Thiruvottiyur,  Chennai",19.0,24.0,83.0,,
-2012-03-07,"Thiruvottiyur,  Chennai",14.0,26.0,68.0,,
-2012-03-09,"Thiruvottiyur,  Chennai",15.0,26.0,58.0,,
-2012-03-14,"Thiruvottiyur,  Chennai",15.0,26.0,62.0,,
-2012-03-16,"Thiruvottiyur,  Chennai",21.0,27.0,58.0,,
-2012-03-21,"Thiruvottiyur,  Chennai",23.0,26.0,60.0,,
-2012-03-28,"Thiruvottiyur,  Chennai",19.0,31.0,60.0,,
-2012-03-30,"Thiruvottiyur,  Chennai",15.0,25.0,74.0,,
-2012-04-04,"Thiruvottiyur,  Chennai",15.0,24.0,64.0,,
-2012-04-11,"Thiruvottiyur,  Chennai",15.0,25.0,53.0,,
-2012-04-18,"Thiruvottiyur,  Chennai",12.0,25.0,41.0,,
-2012-04-20,"Thiruvottiyur,  Chennai",13.0,29.0,69.0,,
-2012-04-25,"Thiruvottiyur,  Chennai",15.0,30.0,47.0,,
-2012-04-27,"Thiruvottiyur,  Chennai",14.0,25.0,47.0,,
-2012-05-02,"Thiruvottiyur,  Chennai",12.0,30.0,76.0,,
-2012-05-04,"Thiruvottiyur,  Chennai",14.0,31.0,105.0,,
-2012-05-09,"Thiruvottiyur,  Chennai",13.0,30.0,84.0,,
-2012-05-11,"Thiruvottiyur,  Chennai",13.0,28.0,89.0,,
-2012-05-16,"Thiruvottiyur,  Chennai",15.0,30.0,72.0,,
-2012-05-18,"Thiruvottiyur,  Chennai",13.0,28.0,88.0,,
-2012-05-23,"Thiruvottiyur,  Chennai",14.0,31.0,98.0,,
-2012-05-25,"Thiruvottiyur,  Chennai",14.0,30.0,99.0,,
-2012-05-29,"Thiruvottiyur,  Chennai",15.0,30.0,80.0,,
-2012-05-30,"Thiruvottiyur,  Chennai",14.0,26.0,124.0,,
-2012-06-01,"Thiruvottiyur,  Chennai",19.0,23.0,139.0,,
-2012-06-06,"Thiruvottiyur,  Chennai",19.0,27.0,116.0,,
-2012-06-08,"Thiruvottiyur,  Chennai",18.0,27.0,122.0,,
-2012-06-15,"Thiruvottiyur,  Chennai",17.0,25.0,116.0,,
-2012-06-20,"Thiruvottiyur,  Chennai",19.0,28.0,151.0,,
-2012-06-22,"Thiruvottiyur,  Chennai",15.0,26.0,91.0,,
-2012-06-27,"Thiruvottiyur,  Chennai",16.0,25.0,85.0,,
-2012-07-04,"Thiruvottiyur,  Chennai",14.0,20.0,81.0,,
-2012-07-06,"Thiruvottiyur,  Chennai",14.0,22.0,46.0,,
-2012-07-11,"Thiruvottiyur,  Chennai",15.0,21.0,74.0,,
-2012-07-13,"Thiruvottiyur,  Chennai",13.0,20.0,76.0,,
-2012-07-18,"Thiruvottiyur,  Chennai",13.0,23.0,73.0,,
-2012-07-20,"Thiruvottiyur,  Chennai",13.0,25.0,94.0,,
-2012-07-25,"Thiruvottiyur,  Chennai",17.0,23.0,89.0,,
-2012-07-27,"Thiruvottiyur,  Chennai",16.0,23.0,81.0,,
-2012-08-01,"Thiruvottiyur,  Chennai",17.0,19.0,106.0,,
-2012-08-03,"Thiruvottiyur,  Chennai",16.0,18.0,94.0,,
-2012-08-08,"Thiruvottiyur,  Chennai",18.0,22.0,79.0,,
-2012-08-10,"Thiruvottiyur,  Chennai",16.0,18.0,70.0,,
-2012-08-13,"Thiruvottiyur,  Chennai",17.0,26.0,85.0,,
-2012-08-17,"Thiruvottiyur,  Chennai",19.0,20.0,85.0,,
-2012-08-22,"Thiruvottiyur,  Chennai",20.0,22.0,51.0,,
-2012-08-24,"Thiruvottiyur,  Chennai",16.0,51.0,58.0,,
-2012-08-29,"Thiruvottiyur,  Chennai",20.0,20.0,72.0,,
-2012-08-31,"Thiruvottiyur,  Chennai",18.0,17.0,82.0,,
-2012-09-05,"Thiruvottiyur,  Chennai",14.0,19.0,77.0,,
-2012-09-07,"Thiruvottiyur,  Chennai",16.0,17.0,71.0,,
-2012-09-12,"Thiruvottiyur,  Chennai",14.0,21.0,69.0,,
-2012-09-14,"Thiruvottiyur,  Chennai",17.0,18.0,67.0,,
-2012-09-21,"Thiruvottiyur,  Chennai",,,,,
-2012-09-26,"Thiruvottiyur,  Chennai",17.0,18.0,107.0,,
-2012-09-28,"Thiruvottiyur,  Chennai",14.0,18.0,103.0,,
-2012-10-03,"Thiruvottiyur,  Chennai",14.0,20.0,98.0,,
-2012-10-05,"Thiruvottiyur,  Chennai",13.0,18.0,93.0,,
-2012-10-10,"Thiruvottiyur,  Chennai",17.0,17.0,98.0,,
-2012-10-12,"Thiruvottiyur,  Chennai",14.0,17.0,104.0,,
-2012-10-17,"Thiruvottiyur,  Chennai",12.0,17.0,93.0,,
-2012-10-26,"Thiruvottiyur,  Chennai",16.0,16.0,107.0,,
-2012-11-02,"Thiruvottiyur,  Chennai",15.0,16.0,93.0,,
-2012-11-07,"Thiruvottiyur,  Chennai",13.0,18.0,84.0,,
-2012-11-09,"Thiruvottiyur,  Chennai",,,96.0,,
-2012-11-14,"Thiruvottiyur,  Chennai",14.0,18.0,126.0,,
-2012-11-16,"Thiruvottiyur,  Chennai",14.0,14.0,107.0,,
-2012-11-21,"Thiruvottiyur,  Chennai",13.0,17.0,100.0,,
-2012-11-23,"Thiruvottiyur,  Chennai",12.0,17.0,76.0,,
-2012-11-28,"Thiruvottiyur,  Chennai",11.0,18.0,85.0,,
-2012-11-30,"Thiruvottiyur,  Chennai",14.0,21.0,79.0,,
-2012-12-05,"Thiruvottiyur,  Chennai",15.0,18.0,59.0,,
-2012-12-07,"Thiruvottiyur,  Chennai",15.0,13.0,96.0,,
-2012-12-12,"Thiruvottiyur,  Chennai",16.0,17.0,88.0,,
-2012-12-14,"Thiruvottiyur,  Chennai",18.0,15.0,107.0,,
-2012-12-19,"Thiruvottiyur,  Chennai",15.0,18.0,102.0,,
-2012-12-21,"Thiruvottiyur,  Chennai",13.0,17.0,109.0,,
-2012-12-26,"Thiruvottiyur,  Chennai",16.0,15.0,108.0,,
-2012-12-28,"Thiruvottiyur,  Chennai",14.0,18.0,85.0,,
-2013-01-04,"Thiruvottiyur,  Chennai",15.0,17.0,92.0,,
-2013-01-11,"Thiruvottiyur,  Chennai",13.0,16.0,120.0,,
-2013-01-18,"Thiruvottiyur,  Chennai",15.0,17.0,91.0,,
-2013-01-23,"Thiruvottiyur,  Chennai",15.0,17.0,93.0,,
-2013-01-30,"Thiruvottiyur,  Chennai",15.0,17.0,84.0,,
-2013-02-01,"Thiruvottiyur,  Chennai",15.0,18.0,106.0,,
-2013-02-06,"Thiruvottiyur,  Chennai",15.0,18.0,74.0,,
-2013-02-08,"Thiruvottiyur,  Chennai",16.0,22.0,92.0,,
-2013-02-13,"Thiruvottiyur,  Chennai",17.0,16.0,64.0,,
-2013-02-15,"Thiruvottiyur,  Chennai",12.0,19.0,86.0,,
-2013-02-20,"Thiruvottiyur,  Chennai",16.0,18.0,57.0,,
-2013-02-22,"Thiruvottiyur,  Chennai",17.0,18.0,59.0,,
-2013-02-27,"Thiruvottiyur,  Chennai",14.0,18.0,82.0,,
-2013-03-01,"Thiruvottiyur,  Chennai",16.0,17.0,100.0,,
-2013-03-06,"Thiruvottiyur,  Chennai",20.0,23.0,46.0,,
-2013-03-08,"Thiruvottiyur,  Chennai",12.0,18.0,68.0,,
-2013-03-15,"Thiruvottiyur,  Chennai",14.0,20.0,67.0,,
-2013-03-20,"Thiruvottiyur,  Chennai",17.0,19.0,48.0,,
-2013-03-22,"Thiruvottiyur,  Chennai",16.0,20.0,78.0,,
-2013-03-27,"Thiruvottiyur,  Chennai",15.0,18.0,66.0,,
-2013-04-03,"Thiruvottiyur,  Chennai",16.0,21.0,49.0,,
-2013-04-05,"Thiruvottiyur,  Chennai",16.0,15.0,45.0,,
-2013-04-10,"Thiruvottiyur,  Chennai",15.0,17.0,55.0,,
-2013-04-12,"Thiruvottiyur,  Chennai",13.0,18.0,64.0,,
-2013-04-17,"Thiruvottiyur,  Chennai",15.0,18.0,68.0,,
-2013-04-19,"Thiruvottiyur,  Chennai",12.0,19.0,49.0,,
-2013-04-26,"Thiruvottiyur,  Chennai",20.0,22.0,51.0,,
-2013-05-03,"Thiruvottiyur,  Chennai",18.0,19.0,59.0,,
-2013-05-08,"Thiruvottiyur,  Chennai",19.0,17.0,57.0,,
-2013-05-10,"Thiruvottiyur,  Chennai",19.0,20.0,52.0,,
-2013-05-15,"Thiruvottiyur,  Chennai",15.0,17.0,71.0,,
-2013-05-17,"Thiruvottiyur,  Chennai",14.0,19.0,54.0,,
-2013-05-22,"Thiruvottiyur,  Chennai",16.0,19.0,53.0,,
-2013-05-24,"Thiruvottiyur,  Chennai",18.0,20.0,79.0,,
-2013-05-29,"Thiruvottiyur,  Chennai",19.0,20.0,60.0,,
-2013-05-31,"Thiruvottiyur,  Chennai",11.0,14.0,71.0,,
-2013-06-05,"Thiruvottiyur,  Chennai",18.0,19.0,99.0,,
-2013-06-07,"Thiruvottiyur,  Chennai",13.0,18.0,50.0,,
-2013-06-12,"Thiruvottiyur,  Chennai",16.0,18.0,67.0,,
-2013-06-14,"Thiruvottiyur,  Chennai",16.0,19.0,102.0,,
-2013-06-19,"Thiruvottiyur,  Chennai",16.0,21.0,88.0,,
-2013-06-21,"Thiruvottiyur,  Chennai",16.0,16.0,65.0,,
-2013-06-26,"Thiruvottiyur,  Chennai",16.0,19.0,101.0,,
-2013-06-28,"Thiruvottiyur,  Chennai",19.0,17.0,48.0,,
-2013-07-03,"Thiruvottiyur,  Chennai",14.0,17.0,60.0,,
-2013-07-05,"Thiruvottiyur,  Chennai",11.0,17.0,45.0,,
-2013-07-10,"Thiruvottiyur,  Chennai",13.0,18.0,84.0,,
-2013-07-12,"Thiruvottiyur,  Chennai",16.0,16.0,59.0,,
-2013-07-17,"Thiruvottiyur,  Chennai",14.0,14.0,63.0,,
-2013-07-19,"Thiruvottiyur,  Chennai",12.0,18.0,60.0,,
-2013-07-24,"Thiruvottiyur,  Chennai",12.0,17.0,60.0,,
-2013-07-26,"Thiruvottiyur,  Chennai",14.0,17.0,92.0,,
-2013-07-31,"Thiruvottiyur,  Chennai",15.0,19.0,73.0,,
-2013-08-02,"Thiruvottiyur,  Chennai",13.0,16.0,48.0,,
-2013-08-07,"Thiruvottiyur,  Chennai",13.0,18.0,53.0,,
-2013-08-16,"Thiruvottiyur,  Chennai",14.0,18.0,65.0,,
-2013-08-21,"Thiruvottiyur,  Chennai",14.0,21.0,56.0,,
-2013-08-23,"Thiruvottiyur,  Chennai",15.0,18.0,37.0,,
-2013-08-30,"Thiruvottiyur,  Chennai",18.0,21.0,56.0,,
-2013-09-04,"Thiruvottiyur,  Chennai",14.0,16.0,45.0,,
-2013-09-06,"Thiruvottiyur,  Chennai",17.0,20.0,44.0,,
-2013-09-11,"Thiruvottiyur,  Chennai",14.0,18.0,51.0,,
-2013-09-13,"Thiruvottiyur,  Chennai",12.0,17.0,42.0,,
-2013-09-18,"Thiruvottiyur,  Chennai",14.0,19.0,64.0,,
-2013-09-20,"Thiruvottiyur,  Chennai",14.0,20.0,42.0,,
-2013-09-25,"Thiruvottiyur,  Chennai",16.0,19.0,57.0,,
-2013-09-27,"Thiruvottiyur,  Chennai",15.0,15.0,65.0,,
-2013-10-04,"Thiruvottiyur,  Chennai",15.0,17.0,54.0,,
-2013-10-09,"Thiruvottiyur,  Chennai",15.0,18.0,81.0,,
-2013-10-11,"Thiruvottiyur,  Chennai",16.0,18.0,61.0,,
-2013-10-18,"Thiruvottiyur,  Chennai",15.0,16.0,26.0,,
-2013-10-25,"Thiruvottiyur,  Chennai",20.0,19.0,45.0,,
-2013-10-30,"Thiruvottiyur,  Chennai",16.0,14.0,29.0,,
-2013-11-01,"Thiruvottiyur,  Chennai",15.0,16.0,32.0,,
-2013-11-06,"Thiruvottiyur,  Chennai",15.0,17.0,44.0,,
-2013-11-08,"Thiruvottiyur,  Chennai",17.0,19.0,40.0,,
-2013-11-13,"Thiruvottiyur,  Chennai",15.0,16.0,99.0,,
-2013-11-20,"Thiruvottiyur,  Chennai",15.0,17.0,87.0,,
-2013-11-22,"Thiruvottiyur,  Chennai",11.0,18.0,53.0,,
-2013-11-27,"Thiruvottiyur,  Chennai",16.0,14.0,43.0,,
-2013-11-29,"Thiruvottiyur,  Chennai",15.0,18.0,77.0,,
-2013-12-04,"Thiruvottiyur,  Chennai",12.0,16.0,33.0,,
-2013-12-06,"Thiruvottiyur,  Chennai",14.0,16.0,58.0,,
-2013-12-11,"Thiruvottiyur,  Chennai",17.0,16.0,67.0,,
-2013-12-13,"Thiruvottiyur,  Chennai",13.0,15.0,40.0,,
-2013-12-18,"Thiruvottiyur,  Chennai",15.0,13.0,55.0,,
-2013-12-20,"Thiruvottiyur,  Chennai",14.0,15.0,64.0,,
-2013-12-27,"Thiruvottiyur,  Chennai",15.0,18.0,53.0,,
-2014-01-08,"Thiruvottiyur,  Chennai",14.0,15.0,100.0,,
-2014-01-10,"Thiruvottiyur,  Chennai",12.0,16.0,41.0,,
-2014-01-17,"Thiruvottiyur,  Chennai",16.0,18.0,31.0,,
-2014-01-22,"Thiruvottiyur,  Chennai",12.0,14.0,35.0,,
-2014-01-24,"Thiruvottiyur,  Chennai",14.0,18.0,38.0,,
-2014-01-29,"Thiruvottiyur,  Chennai",14.0,16.0,49.0,,
-2014-01-31,"Thiruvottiyur,  Chennai",14.0,15.0,36.0,,
-2014-02-04,"Thiruvottiyur,  Chennai",13.0,17.0,42.0,,
-2014-02-05,"Thiruvottiyur,  Chennai",12.0,15.0,34.0,,
-2014-02-07,"Thiruvottiyur,  Chennai",14.0,16.0,36.0,,
-2014-02-14,"Thiruvottiyur,  Chennai",16.0,16.0,41.0,,
-2014-02-19,"Thiruvottiyur,  Chennai",10.0,18.0,46.0,,
-2014-02-21,"Thiruvottiyur,  Chennai",14.0,17.0,46.0,,
-2014-02-26,"Thiruvottiyur,  Chennai",13.0,17.0,25.0,,
-2014-02-28,"Thiruvottiyur,  Chennai",14.0,13.0,35.0,,
-2014-03-01,"Thiruvottiyur,  Chennai",13.0,17.0,31.0,,
-2014-03-09,"Thiruvottiyur,  Chennai",11.0,16.0,31.0,,
-2014-03-12,"Thiruvottiyur,  Chennai",12.0,13.0,60.0,,
-2014-03-14,"Thiruvottiyur,  Chennai",16.0,15.0,53.0,,
-2014-03-19,"Thiruvottiyur,  Chennai",10.0,17.0,53.0,,
-2014-03-21,"Thiruvottiyur,  Chennai",14.0,16.0,36.0,,
-2014-03-26,"Thiruvottiyur,  Chennai",13.0,17.0,41.0,,
-2014-03-28,"Thiruvottiyur,  Chennai",14.0,13.0,46.0,,
-2014-04-04,"Thiruvottiyur,  Chennai",15.0,19.0,40.0,,
-2014-04-06,"Thiruvottiyur,  Chennai",15.0,16.0,38.0,,
-2014-04-07,"Thiruvottiyur,  Chennai",15.0,17.0,52.0,,
-2014-04-16,"Thiruvottiyur,  Chennai",11.0,19.0,35.0,,
-2014-04-23,"Thiruvottiyur,  Chennai",14.0,17.0,43.0,,
-2014-04-25,"Thiruvottiyur,  Chennai",13.0,18.0,30.0,,
-2014-04-30,"Thiruvottiyur,  Chennai",15.0,17.0,27.0,,
-2014-05-02,"Thiruvottiyur,  Chennai",13.0,17.0,54.0,,
-2014-05-03,"Thiruvottiyur,  Chennai",14.0,18.0,28.0,,
-2014-05-09,"Thiruvottiyur,  Chennai",10.0,15.0,37.0,,
-2014-05-11,"Thiruvottiyur,  Chennai",12.0,12.0,54.0,,
-2014-05-12,"Thiruvottiyur,  Chennai",11.0,12.0,52.0,,
-2014-05-14,"Thiruvottiyur,  Chennai",13.0,15.0,32.0,,
-2014-05-16,"Thiruvottiyur,  Chennai",13.0,15.0,48.0,,
-2014-05-21,"Thiruvottiyur,  Chennai",14.0,19.0,33.0,,
-2014-05-23,"Thiruvottiyur,  Chennai",12.0,17.0,41.0,,
-2014-05-28,"Thiruvottiyur,  Chennai",15.0,15.0,32.0,,
-2014-05-30,"Thiruvottiyur,  Chennai",10.0,13.0,36.0,,
-2014-06-06,"Thiruvottiyur,  Chennai",15.0,18.0,39.0,,
-2014-06-08,"Thiruvottiyur,  Chennai",15.0,14.0,46.0,,
-2014-06-13,"Thiruvottiyur,  Chennai",11.0,17.0,54.0,,
-2014-06-18,"Thiruvottiyur,  Chennai",13.0,14.0,71.0,,
-2014-06-20,"Thiruvottiyur,  Chennai",16.0,19.0,47.0,,
-2014-06-25,"Thiruvottiyur,  Chennai",15.0,16.0,58.0,,
-2014-06-27,"Thiruvottiyur,  Chennai",14.0,16.0,42.0,,
-2014-07-02,"Thiruvottiyur,  Chennai",14.0,17.0,51.0,,
-2014-07-03,"Thiruvottiyur,  Chennai",14.0,17.0,46.0,,
-2014-07-05,"Thiruvottiyur,  Chennai",15.0,16.0,32.0,,
-2014-07-11,"Thiruvottiyur,  Chennai",10.0,13.0,57.0,,
-2014-07-16,"Thiruvottiyur,  Chennai",12.0,16.0,35.0,,
-2014-07-18,"Thiruvottiyur,  Chennai",11.0,17.0,45.0,,
-2014-07-23,"Thiruvottiyur,  Chennai",16.0,15.0,36.0,,
-2014-07-25,"Thiruvottiyur,  Chennai",11.0,16.0,24.0,,
-2014-07-30,"Thiruvottiyur,  Chennai",13.0,17.0,68.0,,
-2014-08-01,"Thiruvottiyur,  Chennai",11.0,16.0,40.0,,
-2014-08-08,"Thiruvottiyur,  Chennai",17.0,15.0,30.0,,
-2014-08-10,"Thiruvottiyur,  Chennai",13.0,12.0,40.0,,
-2014-08-13,"Thiruvottiyur,  Chennai",13.0,15.0,41.0,,
-2014-08-20,"Thiruvottiyur,  Chennai",14.0,18.0,35.0,,
-2014-08-22,"Thiruvottiyur,  Chennai",14.0,17.0,38.0,,
-2014-08-27,"Thiruvottiyur,  Chennai",16.0,13.0,44.0,,
-2014-09-04,"Thiruvottiyur,  Chennai",13.0,17.0,42.0,,
-2014-09-05,"Thiruvottiyur,  Chennai",14.0,16.0,45.0,,
-2014-09-07,"Thiruvottiyur,  Chennai",14.0,19.0,37.0,,
-2014-09-17,"Thiruvottiyur,  Chennai",14.0,13.0,48.0,,
-2014-09-19,"Thiruvottiyur,  Chennai",14.0,12.0,41.0,,
-2014-09-24,"Thiruvottiyur,  Chennai",10.0,17.0,29.0,,
-2014-09-26,"Thiruvottiyur,  Chennai",11.0,15.0,36.0,,
-2014-10-01,"Thiruvottiyur,  Chennai",13.0,17.0,30.0,,
-2014-10-09,"Thiruvottiyur,  Chennai",10.0,15.0,32.0,,
-2014-10-10,"Thiruvottiyur,  Chennai",13.0,15.0,36.0,,
-2014-10-12,"Thiruvottiyur,  Chennai",12.0,14.0,46.0,,
-2014-10-15,"Thiruvottiyur,  Chennai",14.0,14.0,33.0,,
-2014-10-24,"Thiruvottiyur,  Chennai",18.0,18.0,40.0,,
-2014-10-29,"Thiruvottiyur,  Chennai",12.0,14.0,46.0,,
-2014-10-31,"Thiruvottiyur,  Chennai",11.0,13.0,55.0,,
-2014-11-04,"Thiruvottiyur,  Chennai",14.0,15.0,46.0,,
-2014-11-06,"Thiruvottiyur,  Chennai",13.0,19.0,36.0,,
-2014-11-07,"Thiruvottiyur,  Chennai",15.0,14.0,43.0,,
-2014-11-14,"Thiruvottiyur,  Chennai",10.0,14.0,30.0,,
-2014-11-19,"Thiruvottiyur,  Chennai",13.0,15.0,32.0,,
-2014-11-21,"Thiruvottiyur,  Chennai",10.0,17.0,49.0,,
-2014-11-26,"Thiruvottiyur,  Chennai",12.0,14.0,59.0,,
-2014-11-28,"Thiruvottiyur,  Chennai",10.0,11.0,49.0,,
-2014-12-02,"Thiruvottiyur,  Chennai",13.0,18.0,44.0,,
-2014-12-03,"Thiruvottiyur,  Chennai",12.0,19.0,68.0,,
-2014-12-09,"Thiruvottiyur,  Chennai",10.0,14.0,33.0,,
-2014-12-12,"Thiruvottiyur,  Chennai",13.0,13.0,45.0,,
-2014-12-17,"Thiruvottiyur,  Chennai",10.0,16.0,50.0,,
-2014-12-19,"Thiruvottiyur,  Chennai",12.0,13.0,49.0,,
-2014-12-24,"Thiruvottiyur,  Chennai",12.0,11.0,44.0,,
-2014-12-26,"Thiruvottiyur,  Chennai",13.0,13.0,50.0,,
-2014-12-31,"Thiruvottiyur,  Chennai",11.0,11.0,50.0,,
+Sampling Date,Location of Monitoring Station,SO2,NO2,RSPM/PM10
+2010-01-04,"Govt. High School, Manali, Chennai.",10.73333333,18.66666667,124.3333333
+2010-01-07,"Govt. High School, Manali, Chennai.",10.41666667,17.03333333,94.33333333
+2010-01-11,"Govt. High School, Manali, Chennai.",11.15,20.3,50.66666667
+2010-01-18,"Govt. High School, Manali, Chennai.",11.96666667,21.71666667,145.3333333
+2010-01-21,"Govt. High School, Manali, Chennai.",8.783333333,15.36666667,131.6666667
+2010-01-25,"Govt. High School, Manali, Chennai.",13.43333333,23.05,73.33333333
+2010-01-28,"Govt. High School, Manali, Chennai.",12.95,17.83333333,110.0
+2010-02-01,"Govt. High School, Manali, Chennai.",10.76666667,18.91666667,128.0
+2010-02-04,"Govt. High School, Manali, Chennai.",15.65,22.33333333,138.0
+2010-02-08,"Govt. High School, Manali, Chennai.",9.133333333,13.56666667,126.6666667
+2010-02-11,"Govt. High School, Manali, Chennai.",10.78333333,19.41666667,92.33333333
+2010-02-15,"Govt. High School, Manali, Chennai.",13.9,23.01666667,92.66666667
+2010-02-18,"Govt. High School, Manali, Chennai.",13.51666667,23.36666667,100.3333333
+2010-02-22,"Govt. High School, Manali, Chennai.",8.816666667,14.13333333,87.0
+2010-02-25,"Govt. High School, Manali, Chennai.",10.01666667,18.05,94.33333333
+2010-03-01,"Govt. High School, Manali, Chennai.",10.21666667,17.75,79.33333333
+2010-03-04,"Govt. High School, Manali, Chennai.",13.73333333,22.76666667,95.0
+2010-03-08,"Govt. High School, Manali, Chennai.",12.25,19.56666667,93.33333333
+2010-03-11,"Govt. High School, Manali, Chennai.",10.05,16.8,77.0
+2010-03-15,"Govt. High School, Manali, Chennai.",11.3,19.3,78.33333333
+2010-03-18,"Govt. High School, Manali, Chennai.",10.1,16.91666667,101.0
+2010-03-22,"Govt. High School, Manali, Chennai.",9.483333333,16.75,93.33333333
+2010-03-25,"Govt. High School, Manali, Chennai.",13.13333333,21.01666667,73.33333333
+2010-03-29,"Govt. High School, Manali, Chennai.",12.63333333,17.83333333,62.33333333
+2010-04-01,"Govt. High School, Manali, Chennai.",11.05,18.85,72.0
+2010-04-05,"Govt. High School, Manali, Chennai.",11.38333333,20.93333333,63.66666667
+2010-04-08,"Govt. High School, Manali, Chennai.",10.31666667,17.46666667,50.66666667
+2010-04-12,"Govt. High School, Manali, Chennai.",11.18333333,19.16666667,58.66666667
+2010-04-15,"Govt. High School, Manali, Chennai.",14.51666667,26.4,51.0
+2010-04-19,"Govt. High School, Manali, Chennai.",11.48333333,19.65,59.33333333
+2010-04-22,"Govt. High School, Manali, Chennai.",9.65,16.05,59.66666667
+2010-04-26,"Govt. High School, Manali, Chennai.",11.96666667,21.83333333,40.66666667
+2010-04-29,"Govt. High School, Manali, Chennai.",11.75,20.0,45.33333333
+2010-05-03,"Govt. High School, Manali, Chennai.",10.23333333,18.23333333,37.66666667
+2010-05-06,"Govt. High School, Manali, Chennai.",11.78333333,19.0,48.0
+2010-05-10,"Govt. High School, Manali, Chennai.",10.81666667,18.33333333,55.66666667
+2010-05-13,"Govt. High School, Manali, Chennai.",11.26666667,19.9,55.33333333
+2010-05-17,"Govt. High School, Manali, Chennai.",11.08333333,18.11666667,53.0
+2010-05-20,"Govt. High School, Manali, Chennai.",11.78333333,20.18333333,41.66666667
+2010-05-24,"Govt. High School, Manali, Chennai.",9.033333333,15.16666667,63.66666667
+2010-05-27,"Govt. High School, Manali, Chennai.",10.51666667,18.81666667,48.0
+2010-05-31,"Govt. High School, Manali, Chennai.",14.68333333,25.35,96.0
+2010-06-03,"Govt. High School, Manali, Chennai.",13.45,23.53333333,60.33333333
+2010-06-07,"Govt. High School, Manali, Chennai.",13.51666667,23.0,72.0
+2010-06-10,"Govt. High School, Manali, Chennai.",10.65,18.3,82.0
+2010-06-14,"Govt. High School, Manali, Chennai.",14.98333333,26.53333333,79.33333333
+2010-06-17,"Govt. High School, Manali, Chennai.",11.68333333,20.5,53.0
+2010-06-21,"Govt. High School, Manali, Chennai.",10.78333333,17.25,57.66666667
+2010-06-24,"Govt. High School, Manali, Chennai.",10.85,19.08333333,48.33333333
+2010-06-28,"Govt. High School, Manali, Chennai.",10.75,18.2,45.66666667
+2010-07-01,"Govt. High School, Manali, Chennai.",11.16666667,18.68333333,60.66666667
+2010-07-05,"Govt. High School, Manali, Chennai.",13.38333333,19.11666667,94.0
+2010-07-08,"Govt. High School, Manali, Chennai.",13.55,21.2,59.0
+2010-07-12,"Govt. High School, Manali, Chennai.",12.81666667,19.5,64.0
+2010-07-15,"Govt. High School, Manali, Chennai.",8.85,13.91666667,49.66666667
+2010-07-19,"Govt. High School, Manali, Chennai.",11.98333333,19.83333333,54.66666667
+2010-07-22,"Govt. High School, Manali, Chennai.",10.96666667,18.38333333,62.0
+2010-07-26,"Govt. High School, Manali, Chennai.",11.15,18.95,60.66666667
+2010-07-29,"Govt. High School, Manali, Chennai.",12.78333333,19.95,57.66666667
+2010-08-02,"Govt. High School, Manali, Chennai.",10.15,16.93333333,48.0
+2010-08-05,"Govt. High School, Manali, Chennai.",11.01666667,17.91666667,54.66666667
+2010-08-09,"Govt. High School, Manali, Chennai.",11.1,17.46666667,55.66666667
+2010-08-12,"Govt. High School, Manali, Chennai.",9.15,15.4,55.0
+2010-08-16,"Govt. High School, Manali, Chennai.",11.18333333,19.05,60.0
+2010-08-19,"Govt. High School, Manali, Chennai.",10.05,17.36666667,58.0
+2010-08-23,"Govt. High School, Manali, Chennai.",12.48333333,19.8,28.66666667
+2010-08-26,"Govt. High School, Manali, Chennai.",10.66666667,17.6,49.33333333
+2010-08-30,"Govt. High School, Manali, Chennai.",13.33333333,21.4,52.33333333
+2010-09-02,"Govt. High School, Manali, Chennai.",14.4,23.55,40.33333333
+2010-09-06,"Govt. High School, Manali, Chennai.",12.51666667,21.06666667,42.33333333
+2010-09-09,"Govt. High School, Manali, Chennai.",11.8,19.66666667,44.33333333
+2010-09-13,"Govt. High School, Manali, Chennai.",10.41666667,18.16666667,40.33333333
+2010-09-16,"Govt. High School, Manali, Chennai.",12.16666667,14.76666667,47.0
+2010-09-20,"Govt. High School, Manali, Chennai.",12.005,17.66666667,71.33333333
+2010-09-23,"Govt. High School, Manali, Chennai.",14.85,26.85,59.66666667
+2010-09-27,"Govt. High School, Manali, Chennai.",11.63333333,20.05,44.66666667
+2010-09-30,"Govt. High School, Manali, Chennai.",10.8,16.96666667,62.66666667
+2010-10-04,"Govt. High School, Manali, Chennai.",10.26666667,17.38333333,107.0
+2010-10-07,"Govt. High School, Manali, Chennai.",11.41666667,18.18333333,127.3333333
+2010-10-11,"Govt. High School, Manali, Chennai.",13.8,21.25,144.6666667
+2010-10-14,"Govt. High School, Manali, Chennai.",10.25,15.86666667,140.6666667
+2010-10-18,"Govt. High School, Manali, Chennai.",8.7,11.95,159.3333333
+2010-10-21,"Govt. High School, Manali, Chennai.",11.75,20.7,143.6666667
+2010-10-25,"Govt. High School, Manali, Chennai.",10.58333333,16.83333333,119.0
+2010-10-28,"Govt. High School, Manali, Chennai.",8.95,17.0,239.0
+2010-11-01,"Govt. High School, Manali, Chennai.",9.633333333,14.5,113.6666667
+2010-11-04,"Govt. High School, Manali, Chennai.",10.01666667,16.53333333,89.33333333
+2010-11-08,"Govt. High School, Manali, Chennai.",9.066666667,15.45,85.33333333
+2010-11-11,"Govt. High School, Manali, Chennai.",11.26666667,18.63333333,101.3333333
+2010-11-15,"Govt. High School, Manali, Chennai.",10.26666667,16.25,85.0
+2010-11-18,"Govt. High School, Manali, Chennai.",10.01666667,15.41666667,88.0
+2010-11-22,"Govt. High School, Manali, Chennai.",12.83333333,22.58333333,110.3333333
+2010-11-25,"Govt. High School, Manali, Chennai.",11.15,25.33333333,101.6666667
+2010-11-29,"Govt. High School, Manali, Chennai.",11.58333333,20.61666667,104.0
+2010-12-02,"Govt. High School, Manali, Chennai.",10.81666667,18.41666667,111.0
+2010-12-09,"Govt. High School, Manali, Chennai.",10.36666667,17.73333333,119.3333333
+2010-12-13,"Govt. High School, Manali, Chennai.",11.96666667,20.11666667,91.66666667
+2010-12-16,"Govt. High School, Manali, Chennai.",8.85,14.08333333,86.0
+2010-12-20,"Govt. High School, Manali, Chennai.",11.48333333,20.55,143.6666667
+2010-12-23,"Govt. High School, Manali, Chennai.",10.81666667,17.88333333,90.33333333
+2010-12-27,"Govt. High School, Manali, Chennai.",10.65,17.4,102.3333333
+2010-12-30,"Govt. High School, Manali, Chennai.",11.63333333,19.41666667,86.0
+2011-01-03,"Govt. High School, Manali, Chennai.",11.0,20.0,75.0
+2011-01-06,"Govt. High School, Manali, Chennai.",9.0,13.0,107.0
+2011-01-10,"Govt. High School, Manali, Chennai.",12.0,20.0,117.0
+2011-01-13,"Govt. High School, Manali, Chennai.",11.0,18.0,143.0
+2011-01-20,"Govt. High School, Manali, Chennai.",12.0,18.0,92.0
+2011-01-24,"Govt. High School, Manali, Chennai.",10.0,16.0,111.0
+2011-01-27,"Govt. High School, Manali, Chennai.",13.0,23.0,153.0
+2011-01-31,"Govt. High School, Manali, Chennai.",14.0,19.0,106.0
+2011-02-03,"Govt. High School, Manali, Chennai.",13.0,22.0,126.0
+2011-02-07,"Govt. High School, Manali, Chennai.",15.0,245.0,177.0
+2011-02-10,"Govt. High School, Manali, Chennai.",12.0,22.0,134.0
+2011-02-14,"Govt. High School, Manali, Chennai.",20.0,13.0,127.0
+2011-02-17,"Govt. High School, Manali, Chennai.",12.0,20.0,109.0
+2011-02-21,"Govt. High School, Manali, Chennai.",9.0,16.0,63.0
+2011-02-24,"Govt. High School, Manali, Chennai.",33.0,21.0,82.0
+2011-02-28,"Govt. High School, Manali, Chennai.",18.0,13.0,122.0
+2011-03-03,"Govt. High School, Manali, Chennai.",15.0,27.0,130.0
+2011-03-07,"Govt. High School, Manali, Chennai.",58.0,23.0,147.0
+2011-03-10,"Govt. High School, Manali, Chennai.",16.0,27.0,101.0
+2011-03-14,"Govt. High School, Manali, Chennai.",24.0,18.0,55.0
+2011-03-17,"Govt. High School, Manali, Chennai.",17.0,29.0,87.0
+2011-03-21,"Govt. High School, Manali, Chennai.",11.0,40.0,118.0
+2011-03-24,"Govt. High School, Manali, Chennai.",9.0,30.0,134.0
+2011-03-28,"Govt. High School, Manali, Chennai.",9.0,28.0,225.0
+2011-03-31,"Govt. High School, Manali, Chennai.",12.0,19.0,166.0
+2011-04-07,"Govt. High School, Manali, Chennai.",10.0,24.0,100.0
+2011-04-11,"Govt. High School, Manali, Chennai.",14.0,12.0,62.0
+2011-04-18,"Govt. High School, Manali, Chennai.",10.0,14.0,45.0
+2011-04-21,"Govt. High School, Manali, Chennai.",12.0,25.0,43.0
+2011-04-25,"Govt. High School, Manali, Chennai.",11.0,14.0,45.0
+2011-04-28,"Govt. High School, Manali, Chennai.",11.0,15.0,45.0
+2011-05-02,"Govt. High School, Manali, Chennai.",909.0,22.0,87.0
+2011-05-05,"Govt. High School, Manali, Chennai.",20.0,24.0,108.0
+2011-05-09,"Govt. High School, Manali, Chennai.",10.0,31.0,152.0
+2011-05-12,"Govt. High School, Manali, Chennai.",10.0,28.0,84.0
+2011-05-16,"Govt. High School, Manali, Chennai.",10.0,22.0,66.0
+2011-05-19,"Govt. High School, Manali, Chennai.",10.0,12.0,78.0
+2011-05-23,"Govt. High School, Manali, Chennai.",11.0,12.0,77.0
+2011-05-26,"Govt. High School, Manali, Chennai.",13.0,14.0,69.0
+2011-05-30,"Govt. High School, Manali, Chennai.",11.0,15.0,70.0
+2011-06-02,"Govt. High School, Manali, Chennai.",9.0,13.0,54.0
+2011-06-06,"Govt. High School, Manali, Chennai.",9.0,13.0,45.0
+2011-06-09,"Govt. High School, Manali, Chennai.",9.0,17.0,62.0
+2011-06-13,"Govt. High School, Manali, Chennai.",12.0,13.0,71.0
+2011-06-16,"Govt. High School, Manali, Chennai.",10.0,16.0,81.0
+2011-06-20,"Govt. High School, Manali, Chennai.",12.0,16.0,79.0
+2011-06-23,"Govt. High School, Manali, Chennai.",11.0,15.0,76.0
+2011-06-27,"Govt. High School, Manali, Chennai.",10.0,13.0,63.0
+2011-06-30,"Govt. High School, Manali, Chennai.",27.0,19.0,126.0
+2011-07-04,"Govt. High School, Manali, Chennai.",10.0,15.0,45.0
+2011-07-07,"Govt. High School, Manali, Chennai.",9.0,14.0,41.0
+2011-07-11,"Govt. High School, Manali, Chennai.",12.0,17.0,49.0
+2011-07-14,"Govt. High School, Manali, Chennai.",10.0,13.0,24.0
+2011-07-18,"Govt. High School, Manali, Chennai.",10.0,14.0,51.0
+2011-07-21,"Govt. High School, Manali, Chennai.",12.0,21.0,41.0
+2011-07-25,"Govt. High School, Manali, Chennai.",10.0,14.0,41.0
+2011-07-28,"Govt. High School, Manali, Chennai.",10.0,13.0,50.0
+2011-08-01,"Govt. High School, Manali, Chennai.",30.0,35.0,57.0
+2011-08-04,"Govt. High School, Manali, Chennai.",32.0,38.0,38.0
+2011-08-08,"Govt. High School, Manali, Chennai.",46.0,29.0,28.0
+2011-08-11,"Govt. High School, Manali, Chennai.",43.0,33.0,29.0
+2011-08-18,"Govt. High School, Manali, Chennai.",40.0,32.0,40.0
+2011-08-22,"Govt. High School, Manali, Chennai.",39.0,31.0,42.0
+2011-08-25,"Govt. High School, Manali, Chennai.",38.0,37.0,35.0
+2011-08-29,"Govt. High School, Manali, Chennai.",35.0,41.0,47.0
+2011-09-05,"Govt. High School, Manali, Chennai.",27.0,35.0,30.0
+2011-09-08,"Govt. High School, Manali, Chennai.",29.0,25.0,26.0
+2011-09-12,"Govt. High School, Manali, Chennai.",36.0,29.0,57.0
+2011-09-15,"Govt. High School, Manali, Chennai.",31.0,27.0,45.0
+2011-09-19,"Govt. High School, Manali, Chennai.",29.0,28.0,44.0
+2011-09-22,"Govt. High School, Manali, Chennai.",33.0,28.0,50.0
+2011-09-26,"Govt. High School, Manali, Chennai.",31.0,33.0,41.0
+2011-09-29,"Govt. High School, Manali, Chennai.",34.0,32.0,57.0
+2011-10-03,"Govt. High School, Manali, Chennai.",25.0,34.0,83.0
+2011-10-10,"Govt. High School, Manali, Chennai.",24.0,29.0,143.0
+2011-10-13,"Govt. High School, Manali, Chennai.",31.0,29.0,114.0
+2011-10-20,"Govt. High School, Manali, Chennai.",27.0,29.0,107.0
+2011-10-24,"Govt. High School, Manali, Chennai.",27.0,37.0,97.0
+2011-10-27,"Govt. High School, Manali, Chennai.",31.0,30.0,101.0
+2011-10-31,"Govt. High School, Manali, Chennai.",30.0,29.0,113.0
+2011-11-03,"Govt. High School, Manali, Chennai.",37.0,68.0,33.0
+2011-11-10,"Govt. High School, Manali, Chennai.",35.0,59.0,98.0
+2011-11-14,"Govt. High School, Manali, Chennai.",34.0,46.0,52.0
+2011-11-17,"Govt. High School, Manali, Chennai.",26.0,61.0,83.0
+2011-11-21,"Govt. High School, Manali, Chennai.",24.0,52.0,116.0
+2011-11-24,"Govt. High School, Manali, Chennai.",23.0,36.0,91.0
+2011-11-28,"Govt. High School, Manali, Chennai.",16.0,23.0,76.0
+2011-12-01,"Govt. High School, Manali, Chennai.",26.0,42.0,115.0
+2011-12-05,"Govt. High School, Manali, Chennai.",29.0,37.0,132.0
+2011-12-08,"Govt. High School, Manali, Chennai.",32.0,19.0,118.0
+2011-12-12,"Govt. High School, Manali, Chennai.",31.0,23.0,107.0
+2011-12-15,"Govt. High School, Manali, Chennai.",18.0,26.0,96.0
+2011-12-19,"Govt. High School, Manali, Chennai.",9.0,16.0,117.0
+2011-12-22,"Govt. High School, Manali, Chennai.",9.0,12.0,116.0
+2011-12-26,"Govt. High School, Manali, Chennai.",8.0,11.0,151.0
+2012-01-02,"Govt. High School, Manali, Chennai.",16.0,20.0,31.0
+2012-01-05,"Govt. High School, Manali, Chennai.",16.0,22.0,62.0
+2012-01-09,"Govt. High School, Manali, Chennai.",16.0,32.0,43.0
+2012-01-12,"Govt. High School, Manali, Chennai.",17.0,24.0,45.0
+2012-01-19,"Govt. High School, Manali, Chennai.",17.0,26.0,53.0
+2012-01-23,"Govt. High School, Manali, Chennai.",19.0,20.0,60.0
+2012-01-30,"Govt. High School, Manali, Chennai.",17.0,25.0,43.0
+2012-02-02,"Govt. High School, Manali, Chennai.",16.0,36.0,59.0
+2012-02-06,"Govt. High School, Manali, Chennai.",20.0,32.0,81.0
+2012-02-09,"Govt. High School, Manali, Chennai.",24.0,36.0,57.0
+2012-02-13,"Govt. High School, Manali, Chennai.",13.0,25.0,78.0
+2012-02-16,"Govt. High School, Manali, Chennai.",12.0,22.0,67.0
+2012-02-20,"Govt. High School, Manali, Chennai.",22.0,36.0,86.0
+2012-02-27,"Govt. High School, Manali, Chennai.",19.0,20.0,96.0
+2012-03-01,"Govt. High School, Manali, Chennai.",18.0,26.0,73.0
+2012-03-05,"Govt. High School, Manali, Chennai.",15.0,25.0,50.0
+2012-03-08,"Govt. High School, Manali, Chennai.",14.0,26.0,99.0
+2012-03-12,"Govt. High School, Manali, Chennai.",15.0,24.0,58.0
+2012-03-15,"Govt. High School, Manali, Chennai.",15.0,26.0,56.0
+2012-03-19,"Govt. High School, Manali, Chennai.",14.0,29.0,68.0
+2012-03-22,"Govt. High School, Manali, Chennai.",14.0,25.0,87.0
+2012-03-26,"Govt. High School, Manali, Chennai.",13.0,25.0,82.0
+2012-03-29,"Govt. High School, Manali, Chennai.",15.0,24.0,65.0
+2012-04-02,"Govt. High School, Manali, Chennai.",13.0,26.0,51.0
+2012-04-09,"Govt. High School, Manali, Chennai.",13.0,23.0,58.0
+2012-04-12,"Govt. High School, Manali, Chennai.",13.0,26.0,56.0
+2012-04-16,"Govt. High School, Manali, Chennai.",12.0,26.0,40.0
+2012-04-19,"Govt. High School, Manali, Chennai.",11.0,28.0,47.0
+2012-04-23,"Govt. High School, Manali, Chennai.",13.0,30.0,44.0
+2012-04-26,"Govt. High School, Manali, Chennai.",14.0,27.0,40.0
+2012-04-30,"Govt. High School, Manali, Chennai.",15.0,24.0,63.0
+2012-05-03,"Govt. High School, Manali, Chennai.",14.0,30.0,85.0
+2012-05-07,"Govt. High School, Manali, Chennai.",15.0,32.0,110.0
+2012-05-10,"Govt. High School, Manali, Chennai.",16.0,33.0,81.0
+2012-05-17,"Govt. High School, Manali, Chennai.",16.0,32.0,103.0
+2012-05-21,"Govt. High School, Manali, Chennai.",14.0,33.0,101.0
+2012-05-24,"Govt. High School, Manali, Chennai.",14.0,29.0,102.0
+2012-05-28,"Govt. High School, Manali, Chennai.",17.0,33.0,106.0
+2012-05-31,"Govt. High School, Manali, Chennai.",14.0,31.0,69.0
+2012-06-04,"Govt. High School, Manali, Chennai.",18.0,28.0,77.0
+2012-06-07,"Govt. High School, Manali, Chennai.",19.0,24.0,64.0
+2012-06-11,"Govt. High School, Manali, Chennai.",15.0,25.0,83.0
+2012-06-14,"Govt. High School, Manali, Chennai.",17.0,24.0,70.0
+2012-06-18,"Govt. High School, Manali, Chennai.",20.0,25.0,72.0
+2012-06-21,"Govt. High School, Manali, Chennai.",17.0,24.0,75.0
+2012-06-25,"Govt. High School, Manali, Chennai.",21.0,26.0,60.0
+2012-06-28,"Govt. High School, Manali, Chennai.",21.0,21.0,43.0
+2012-07-02,"Govt. High School, Manali, Chennai.",16.0,18.0,89.0
+2012-07-05,"Govt. High School, Manali, Chennai.",17.0,17.0,63.0
+2012-07-09,"Govt. High School, Manali, Chennai.",17.0,18.0,61.0
+2012-07-12,"Govt. High School, Manali, Chennai.",18.0,20.0,49.0
+2012-07-16,"Govt. High School, Manali, Chennai.",15.0,23.0,59.0
+2012-07-19,"Govt. High School, Manali, Chennai.",18.0,21.0,81.0
+2012-07-23,"Govt. High School, Manali, Chennai.",14.0,21.0,92.0
+2012-07-26,"Govt. High School, Manali, Chennai.",18.0,19.0,57.0
+2012-07-30,"Govt. High School, Manali, Chennai.",14.0,20.0,69.0
+2012-08-02,"Govt. High School, Manali, Chennai.",15.0,18.0,75.0
+2012-08-06,"Govt. High School, Manali, Chennai.",15.0,21.0,64.0
+2012-08-13,"Govt. High School, Manali, Chennai.",16.0,22.0,63.0
+2012-08-16,"Govt. High School, Manali, Chennai.",19.0,22.0,78.0
+2012-08-23,"Govt. High School, Manali, Chennai.",18.0,20.0,71.0
+2012-08-27,"Govt. High School, Manali, Chennai.",15.0,19.0,68.0
+2012-08-30,"Govt. High School, Manali, Chennai.",18.0,21.0,62.0
+2012-09-03,"Govt. High School, Manali, Chennai.",15.0,21.0,63.0
+2012-09-06,"Govt. High School, Manali, Chennai.",14.0,20.0,68.0
+2012-09-10,"Govt. High School, Manali, Chennai.",15.0,19.0,58.0
+2012-09-13,"Govt. High School, Manali, Chennai.",15.0,22.0,73.0
+2012-09-17,"Govt. High School, Manali, Chennai.",18.0,21.0,55.0
+2012-09-20,"Govt. High School, Manali, Chennai.",16.0,20.0,73.0
+2012-09-24,"Govt. High School, Manali, Chennai.",14.0,19.0,68.0
+2012-09-27,"Govt. High School, Manali, Chennai.",13.0,17.0,61.0
+2012-10-01,"Govt. High School, Manali, Chennai.",15.0,19.0,49.0
+2012-10-04,"Govt. High School, Manali, Chennai.",14.0,19.0,74.0
+2012-10-08,"Govt. High School, Manali, Chennai.",15.0,19.0,119.0
+2012-10-11,"Govt. High School, Manali, Chennai.",16.0,24.0,78.0
+2012-10-15,"Govt. High School, Manali, Chennai.",11.0,21.0,90.0
+2012-10-18,"Govt. High School, Manali, Chennai.",20.0,20.0,92.0
+2012-10-22,"Govt. High School, Manali, Chennai.",13.0,16.0,100.0
+2012-10-25,"Govt. High School, Manali, Chennai.",16.0,18.0,111.0
+2012-10-29,"Govt. High School, Manali, Chennai.",18.0,15.0,130.0
+2012-11-01,"Govt. High School, Manali, Chennai.",13.0,18.0,69.0
+2012-11-05,"Govt. High School, Manali, Chennai.",14.0,17.0,72.0
+2012-11-08,"Govt. High School, Manali, Chennai.",14.0,19.0,83.0
+2012-11-12,"Govt. High School, Manali, Chennai.",12.0,18.0,349.0
+2012-11-15,"Govt. High School, Manali, Chennai.",16.0,18.0,80.0
+2012-11-19,"Govt. High School, Manali, Chennai.",13.0,15.0,74.0
+2012-11-22,"Govt. High School, Manali, Chennai.",15.0,17.0,77.0
+2012-11-26,"Govt. High School, Manali, Chennai.",16.0,18.0,70.0
+2012-11-29,"Govt. High School, Manali, Chennai.",13.0,15.0,83.0
+2012-12-03,"Govt. High School, Manali, Chennai.",14.0,14.0,83.0
+2012-12-06,"Govt. High School, Manali, Chennai.",15.0,16.0,89.0
+2012-12-10,"Govt. High School, Manali, Chennai.",14.0,16.0,88.0
+2012-12-13,"Govt. High School, Manali, Chennai.",16.0,16.0,96.0
+2012-12-17,"Govt. High School, Manali, Chennai.",14.0,15.0,83.0
+2012-12-20,"Govt. High School, Manali, Chennai.",17.0,19.0,81.0
+2012-12-24,"Govt. High School, Manali, Chennai.",13.0,16.0,93.0
+2012-12-27,"Govt. High School, Manali, Chennai.",16.0,17.0,81.0
+2012-12-31,"Govt. High School, Manali, Chennai.",17.0,26.0,92.0
+2013-01-03,"Govt. High School, Manali, Chennai.",16.0,20.0,75.0
+2013-01-07,"Govt. High School, Manali, Chennai.",14.0,17.0,65.0
+2013-01-10,"Govt. High School, Manali, Chennai.",13.0,19.0,118.0
+2013-01-17,"Govt. High School, Manali, Chennai.",15.0,16.0,64.0
+2013-01-21,"Govt. High School, Manali, Chennai.",17.0,17.0,83.0
+2013-01-24,"Govt. High School, Manali, Chennai.",14.0,18.0,88.0
+2013-01-28,"Govt. High School, Manali, Chennai.",13.0,15.0,75.0
+2013-01-31,"Govt. High School, Manali, Chennai.",16.0,19.0,76.0
+2013-02-04,"Govt. High School, Manali, Chennai.",14.0,18.0,59.0
+2013-02-07,"Govt. High School, Manali, Chennai.",14.0,18.0,68.0
+2013-02-11,"Govt. High School, Manali, Chennai.",16.0,19.0,64.0
+2013-02-14,"Govt. High School, Manali, Chennai.",18.0,17.0,54.0
+2013-02-18,"Govt. High School, Manali, Chennai.",15.0,18.0,58.0
+2013-02-21,"Govt. High School, Manali, Chennai.",13.0,19.0,60.0
+2013-02-25,"Govt. High School, Manali, Chennai.",14.0,16.0,60.0
+2013-02-28,"Govt. High School, Manali, Chennai.",16.0,19.0,79.0
+2013-03-04,"Govt. High School, Manali, Chennai.",18.0,21.0,56.0
+2013-03-07,"Govt. High School, Manali, Chennai.",16.0,20.0,70.0
+2013-03-11,"Govt. High School, Manali, Chennai.",15.0,19.0,71.0
+2013-03-14,"Govt. High School, Manali, Chennai.",12.0,19.0,55.0
+2013-03-18,"Govt. High School, Manali, Chennai.",15.0,19.0,69.0
+2013-03-21,"Govt. High School, Manali, Chennai.",15.0,16.0,92.0
+2013-03-25,"Govt. High School, Manali, Chennai.",16.0,18.0,55.0
+2013-03-28,"Govt. High School, Manali, Chennai.",15.0,18.0,49.0
+2013-04-01,"Govt. High School, Manali, Chennai.",14.0,15.0,71.0
+2013-04-04,"Govt. High School, Manali, Chennai.",16.0,17.0,73.0
+2013-04-08,"Govt. High School, Manali, Chennai.",16.0,19.0,58.0
+2013-04-15,"Govt. High School, Manali, Chennai.",15.0,16.0,61.0
+2013-04-18,"Govt. High School, Manali, Chennai.",19.0,17.0,109.0
+2013-04-22,"Govt. High School, Manali, Chennai.",16.0,19.0,63.0
+2013-04-25,"Govt. High School, Manali, Chennai.",18.0,20.0,62.0
+2013-04-29,"Govt. High School, Manali, Chennai.",19.0,20.0,68.0
+2013-05-02,"Govt. High School, Manali, Chennai.",18.0,20.0,53.0
+2013-05-06,"Govt. High School, Manali, Chennai.",18.0,20.0,49.0
+2013-05-09,"Govt. High School, Manali, Chennai.",18.0,19.0,75.0
+2013-05-13,"Govt. High School, Manali, Chennai.",18.0,18.0,50.0
+2013-05-16,"Govt. High School, Manali, Chennai.",20.0,19.0,92.0
+2013-05-20,"Govt. High School, Manali, Chennai.",19.0,21.0,65.0
+2013-05-23,"Govt. High School, Manali, Chennai.",16.0,21.0,55.0
+2013-05-27,"Govt. High School, Manali, Chennai.",18.0,16.0,71.0
+2013-05-30,"Govt. High School, Manali, Chennai.",13.0,20.0,60.0
+2013-06-03,"Govt. High School, Manali, Chennai.",17.0,17.0,68.0
+2013-06-06,"Govt. High School, Manali, Chennai.",20.0,21.0,56.0
+2013-06-10,"Govt. High School, Manali, Chennai.",14.0,19.0,80.0
+2013-06-13,"Govt. High School, Manali, Chennai.",17.0,20.0,
+2013-06-17,"Govt. High School, Manali, Chennai.",18.0,21.0,68.0
+2013-06-20,"Govt. High School, Manali, Chennai.",14.0,17.0,91.0
+2013-06-24,"Govt. High School, Manali, Chennai.",16.0,20.0,81.0
+2013-06-27,"Govt. High School, Manali, Chennai.",15.0,17.0,62.0
+2013-07-01,"Govt. High School, Manali, Chennai.",16.0,17.0,47.0
+2013-07-04,"Govt. High School, Manali, Chennai.",14.0,17.0,51.0
+2013-07-08,"Govt. High School, Manali, Chennai.",14.0,17.0,53.0
+2013-07-11,"Govt. High School, Manali, Chennai.",14.0,19.0,
+2013-07-15,"Govt. High School, Manali, Chennai.",11.0,13.0,57.0
+2013-07-18,"Govt. High School, Manali, Chennai.",12.0,18.0,46.0
+2013-07-22,"Govt. High School, Manali, Chennai.",14.0,17.0,59.0
+2013-07-25,"Govt. High School, Manali, Chennai.",14.0,17.0,55.0
+2013-07-29,"Govt. High School, Manali, Chennai.",14.0,17.0,49.0
+2013-08-01,"Govt. High School, Manali, Chennai.",11.0,17.0,54.0
+2013-08-05,"Govt. High School, Manali, Chennai.",13.0,18.0,52.0
+2013-08-08,"Govt. High School, Manali, Chennai.",15.0,19.0,44.0
+2013-08-12,"Govt. High School, Manali, Chennai.",15.0,18.0,42.0
+2013-08-19,"Govt. High School, Manali, Chennai.",17.0,19.0,46.0
+2013-08-22,"Govt. High School, Manali, Chennai.",15.0,19.0,48.0
+2013-08-26,"Govt. High School, Manali, Chennai.",16.0,15.0,55.0
+2013-08-29,"Govt. High School, Manali, Chennai.",15.0,21.0,74.0
+2013-09-02,"Govt. High School, Manali, Chennai.",14.0,17.0,71.0
+2013-09-05,"Govt. High School, Manali, Chennai.",14.0,19.0,58.0
+2013-09-12,"Govt. High School, Manali, Chennai.",15.0,18.0,35.0
+2013-09-16,"Govt. High School, Manali, Chennai.",12.0,19.0,24.0
+2013-09-19,"Govt. High School, Manali, Chennai.",15.0,20.0,32.0
+2013-09-23,"Govt. High School, Manali, Chennai.",17.0,22.0,65.0
+2013-09-26,"Govt. High School, Manali, Chennai.",14.0,18.0,40.0
+2013-09-30,"Govt. High School, Manali, Chennai.",15.0,19.0,26.0
+2013-10-03,"Govt. High School, Manali, Chennai.",14.0,19.0,38.0
+2013-10-07,"Govt. High School, Manali, Chennai.",17.0,19.0,35.0
+2013-10-10,"Govt. High School, Manali, Chennai.",16.0,18.0,25.0
+2013-10-17,"Govt. High School, Manali, Chennai.",16.0,19.0,
+2013-10-21,"Govt. High School, Manali, Chennai.",17.0,23.0,
+2013-10-24,"Govt. High School, Manali, Chennai.",16.0,19.0,43.0
+2013-10-28,"Govt. High School, Manali, Chennai.",19.0,19.0,34.0
+2013-10-31,"Govt. High School, Manali, Chennai.",15.0,16.0,32.0
+2013-11-04,"Govt. High School, Manali, Chennai.",17.0,17.0,31.0
+2013-11-07,"Govt. High School, Manali, Chennai.",15.0,16.0,31.0
+2013-11-11,"Govt. High School, Manali, Chennai.",16.0,19.0,33.0
+2013-11-14,"Govt. High School, Manali, Chennai.",16.0,18.0,46.0
+2013-11-18,"Govt. High School, Manali, Chennai.",17.0,14.0,43.0
+2013-11-21,"Govt. High School, Manali, Chennai.",17.0,18.0,43.0
+2013-11-25,"Govt. High School, Manali, Chennai.",12.0,16.0,34.0
+2013-11-28,"Govt. High School, Manali, Chennai.",16.0,18.0,98.0
+2013-12-02,"Govt. High School, Manali, Chennai.",15.0,16.0,39.0
+2013-12-05,"Govt. High School, Manali, Chennai.",11.0,17.0,62.0
+2013-12-09,"Govt. High School, Manali, Chennai.",14.0,16.0,55.0
+2013-12-12,"Govt. High School, Manali, Chennai.",15.0,17.0,48.0
+2013-12-16,"Govt. High School, Manali, Chennai.",15.0,14.0,58.0
+2013-12-19,"Govt. High School, Manali, Chennai.",14.0,14.0,64.0
+2013-12-23,"Govt. High School, Manali, Chennai.",14.0,14.0,48.0
+2013-12-26,"Govt. High School, Manali, Chennai.",15.0,18.0,82.0
+2013-12-30,"Govt. High School, Manali, Chennai.",16.0,14.0,50.0
+2014-01-02,"Govt. High School, Manali, Chennai.",12.0,14.0,68.0
+2014-01-06,"Govt. High School, Manali, Chennai.",12.0,17.0,39.0
+2014-01-20,"Govt. High School, Manali, Chennai.",13.0,18.0,43.0
+2014-01-23,"Govt. High School, Manali, Chennai.",11.0,19.0,34.0
+2014-01-27,"Govt. High School, Manali, Chennai.",13.0,19.0,35.0
+2014-01-30,"Govt. High School, Manali, Chennai.",15.0,18.0,43.0
+2014-02-03,"Govt. High School, Manali, Chennai.",14.0,17.0,48.0
+2014-02-06,"Govt. High School, Manali, Chennai.",14.0,17.0,55.0
+2014-02-10,"Govt. High School, Manali, Chennai.",10.0,20.0,47.0
+2014-02-13,"Govt. High School, Manali, Chennai.",14.0,18.0,52.0
+2014-02-17,"Govt. High School, Manali, Chennai.",16.0,17.0,45.0
+2014-02-20,"Govt. High School, Manali, Chennai.",13.0,18.0,60.0
+2014-02-24,"Govt. High School, Manali, Chennai.",14.0,16.0,47.0
+2014-02-27,"Govt. High School, Manali, Chennai.",14.0,14.0,59.0
+2014-03-03,"Govt. High School, Manali, Chennai.",14.0,17.0,57.0
+2014-03-06,"Govt. High School, Manali, Chennai.",14.0,18.0,39.0
+2014-03-10,"Govt. High School, Manali, Chennai.",11.0,20.0,42.0
+2014-03-13,"Govt. High School, Manali, Chennai.",15.0,19.0,63.0
+2014-03-17,"Govt. High School, Manali, Chennai.",16.0,17.0,46.0
+2014-03-20,"Govt. High School, Manali, Chennai.",13.0,18.0,43.0
+2014-03-24,"Govt. High School, Manali, Chennai.",15.0,15.0,65.0
+2014-03-27,"Govt. High School, Manali, Chennai.",14.0,15.0,48.0
+2014-04-03,"Govt. High School, Manali, Chennai.",11.0,16.0,54.0
+2014-04-07,"Govt. High School, Manali, Chennai.",13.0,18.0,64.0
+2014-04-10,"Govt. High School, Manali, Chennai.",15.0,18.0,105.0
+2014-04-17,"Govt. High School, Manali, Chennai.",13.0,18.0,61.0
+2014-04-21,"Govt. High School, Manali, Chennai.",15.0,18.0,47.0
+2014-04-28,"Govt. High School, Manali, Chennai.",16.0,14.0,38.0
+2014-05-05,"Govt. High School, Manali, Chennai.",14.0,17.0,34.0
+2014-05-08,"Govt. High School, Manali, Chennai.",12.0,17.0,51.0
+2014-05-12,"Govt. High School, Manali, Chennai.",12.0,15.0,48.0
+2014-05-15,"Govt. High School, Manali, Chennai.",15.0,16.0,64.0
+2014-05-19,"Govt. High School, Manali, Chennai.",14.0,17.0,47.0
+2014-05-22,"Govt. High School, Manali, Chennai.",14.0,14.0,56.0
+2014-05-26,"Govt. High School, Manali, Chennai.",10.0,15.0,53.0
+2014-05-29,"Govt. High School, Manali, Chennai.",13.0,13.0,56.0
+2014-06-02,"Govt. High School, Manali, Chennai.",14.0,16.0,56.0
+2014-06-05,"Govt. High School, Manali, Chennai.",14.0,17.0,64.0
+2014-06-09,"Govt. High School, Manali, Chennai.",13.0,19.0,32.0
+2014-06-12,"Govt. High School, Manali, Chennai.",11.0,16.0,41.0
+2014-06-16,"Govt. High School, Manali, Chennai.",16.0,17.0,39.0
+2014-06-19,"Govt. High School, Manali, Chennai.",16.0,16.0,50.0
+2014-06-26,"Govt. High School, Manali, Chennai.",14.0,13.0,49.0
+2014-06-30,"Govt. High School, Manali, Chennai.",13.0,16.0,32.0
+2014-07-03,"Govt. High School, Manali, Chennai.",15.0,13.0,51.0
+2014-07-07,"Govt. High School, Manali, Chennai.",16.0,17.0,42.0
+2014-07-10,"Govt. High School, Manali, Chennai.",14.0,15.0,29.0
+2014-07-14,"Govt. High School, Manali, Chennai.",14.0,14.0,35.0
+2014-07-17,"Govt. High School, Manali, Chennai.",15.0,17.0,39.0
+2014-07-21,"Govt. High School, Manali, Chennai.",16.0,15.0,41.0
+2014-07-24,"Govt. High School, Manali, Chennai.",11.0,14.0,36.0
+2014-07-28,"Govt. High School, Manali, Chennai.",15.0,17.0,35.0
+2014-07-31,"Govt. High School, Manali, Chennai.",14.0,15.0,34.0
+2014-08-04,"Govt. High School, Manali, Chennai.",13.0,16.0,41.0
+2014-08-07,"Govt. High School, Manali, Chennai.",15.0,15.0,28.0
+2014-08-11,"Govt. High School, Manali, Chennai.",12.0,17.0,29.0
+2014-08-14,"Govt. High School, Manali, Chennai.",13.0,13.0,52.0
+2014-08-18,"Govt. High School, Manali, Chennai.",14.0,13.0,26.0
+2014-08-21,"Govt. High School, Manali, Chennai.",11.0,15.0,29.0
+2014-08-25,"Govt. High School, Manali, Chennai.",16.0,14.0,38.0
+2014-08-28,"Govt. High School, Manali, Chennai.",14.0,12.0,34.0
+2014-09-01,"Govt. High School, Manali, Chennai.",12.0,13.0,38.0
+2014-09-04,"Govt. High School, Manali, Chennai.",12.0,12.0,39.0
+2014-09-08,"Govt. High School, Manali, Chennai.",12.0,15.0,36.0
+2014-09-11,"Govt. High School, Manali, Chennai.",15.0,16.0,37.0
+2014-09-15,"Govt. High School, Manali, Chennai.",11.0,15.0,42.0
+2014-09-18,"Govt. High School, Manali, Chennai.",11.0,13.0,32.0
+2014-09-22,"Govt. High School, Manali, Chennai.",12.0,17.0,37.0
+2014-09-25,"Govt. High School, Manali, Chennai.",11.0,14.0,35.0
+2014-09-29,"Govt. High School, Manali, Chennai.",9.0,13.0,25.0
+2014-10-09,"Govt. High School, Manali, Chennai.",11.0,12.0,51.0
+2014-10-13,"Govt. High School, Manali, Chennai.",13.0,15.0,42.0
+2014-10-16,"Govt. High School, Manali, Chennai.",13.0,15.0,32.0
+2014-10-20,"Govt. High School, Manali, Chennai.",11.0,15.0,46.0
+2014-10-23,"Govt. High School, Manali, Chennai.",20.0,16.0,29.0
+2014-10-27,"Govt. High School, Manali, Chennai.",12.0,17.0,27.0
+2014-10-30,"Govt. High School, Manali, Chennai.",11.0,15.0,29.0
+2014-11-03,"Govt. High School, Manali, Chennai.",10.0,12.0,50.0
+2014-11-06,"Govt. High School, Manali, Chennai.",13.0,14.0,62.0
+2014-11-10,"Govt. High School, Manali, Chennai.",12.0,16.0,38.0
+2014-11-13,"Govt. High School, Manali, Chennai.",11.0,11.0,47.0
+2014-11-17,"Govt. High School, Manali, Chennai.",13.0,15.0,51.0
+2014-11-20,"Govt. High School, Manali, Chennai.",10.0,13.0,54.0
+2014-11-24,"Govt. High School, Manali, Chennai.",13.0,13.0,42.0
+2014-11-27,"Govt. High School, Manali, Chennai.",10.0,13.0,41.0
+2014-12-01,"Govt. High School, Manali, Chennai.",12.0,13.0,49.0
+2014-12-04,"Govt. High School, Manali, Chennai.",11.0,12.0,45.0
+2014-12-08,"Govt. High School, Manali, Chennai.",11.0,13.0,42.0
+2014-12-11,"Govt. High School, Manali, Chennai.",11.0,14.0,27.0
+2014-12-15,"Govt. High School, Manali, Chennai.",14.0,16.0,48.0
+2014-12-18,"Govt. High School, Manali, Chennai.",12.0,13.0,49.0
+2014-12-22,"Govt. High School, Manali, Chennai.",10.0,10.0,45.0
+2014-12-29,"Govt. High School, Manali, Chennai.",11.0,13.0,44.0
+2015-01-06,"Govt. High School, Manali, Chennai.",12.0,21.0,34.0
+2015-01-10,"Govt. High School, Manali, Chennai.",14.0,19.0,36.0
+2015-01-19,"Govt. High School, Manali, Chennai.",13.0,12.0,44.0
+2015-01-22,"Govt. High School, Manali, Chennai.",13.0,14.0,37.0
+2015-01-29,"Govt. High School, Manali, Chennai.",10.0,11.0,40.0
+2015-02-03,"Govt. High School, Manali, Chennai.",13.0,15.0,43.0
+2015-02-11,"Govt. High School, Manali, Chennai.",12.0,18.0,59.0
+2015-02-16,"Govt. High School, Manali, Chennai.",12.0,13.0,56.0
+2015-02-19,"Govt. High School, Manali, Chennai.",9.0,12.0,46.0
+2015-02-23,"Govt. High School, Manali, Chennai.",12.0,15.0,48.0
+2015-02-26,"Govt. High School, Manali, Chennai.",10.0,16.0,48.0
+2015-03-08,"Govt. High School, Manali, Chennai.",14.0,17.0,37.0
+2015-03-16,"Govt. High School, Manali, Chennai.",10.0,12.0,36.0
+2015-03-19,"Govt. High School, Manali, Chennai.",13.0,13.0,51.0
+2015-03-23,"Govt. High School, Manali, Chennai.",10.0,16.0,52.0
+2015-03-26,"Govt. High School, Manali, Chennai.",13.0,15.0,45.0
+2015-03-30,"Govt. High School, Manali, Chennai.",11.0,17.0,43.0
+2015-04-05,"Govt. High School, Manali, Chennai.",16.0,18.0,33.0
+2015-04-06,"Govt. High School, Manali, Chennai.",13.0,22.0,39.0
+2015-04-13,"Govt. High School, Manali, Chennai.",11.0,15.0,66.0
+2015-04-16,"Govt. High School, Manali, Chennai.",13.0,17.0,36.0
+2015-04-20,"Govt. High School, Manali, Chennai.",12.0,13.0,35.0
+2015-04-23,"Govt. High School, Manali, Chennai.",14.0,16.0,42.0
+2015-04-27,"Govt. High School, Manali, Chennai.",10.0,13.0,36.0
+2015-04-30,"Govt. High School, Manali, Chennai.",15.0,17.0,39.0
+2015-05-01,"Govt. High School, Manali, Chennai.",10.0,15.0,33.0
+2015-05-02,"Govt. High School, Manali, Chennai.",10.0,14.0,53.0
+2015-05-03,"Govt. High School, Manali, Chennai.",13.0,15.0,33.0
+2015-05-10,"Govt. High School, Manali, Chennai.",14.0,19.0,57.0
+2015-05-11,"Govt. High School, Manali, Chennai.",13.0,17.0,44.0
+2015-05-14,"Govt. High School, Manali, Chennai.",12.0,18.0,27.0
+2015-05-18,"Govt. High School, Manali, Chennai.",15.0,15.0,32.0
+2015-05-21,"Govt. High School, Manali, Chennai.",15.0,15.0,44.0
+2015-05-25,"Govt. High School, Manali, Chennai.",13.0,18.0,44.0
+2015-05-28,"Govt. High School, Manali, Chennai.",11.0,14.0,42.0
+2015-06-04,"Govt. High School, Manali, Chennai.",13.0,16.0,40.0
+2015-06-08,"Govt. High School, Manali, Chennai.",16.0,20.0,33.0
+2015-06-15,"Govt. High School, Manali, Chennai.",14.0,23.0,52.0
+2015-06-18,"Govt. High School, Manali, Chennai.",11.0,17.0,41.0
+2015-06-22,"Govt. High School, Manali, Chennai.",14.0,22.0,41.0
+2015-06-25,"Govt. High School, Manali, Chennai.",16.0,20.0,43.0
+2015-06-29,"Govt. High School, Manali, Chennai.",14.0,17.0,44.0
+2015-07-05,"Govt. High School, Manali, Chennai.",13.0,20.0,26.0
+2015-07-12,"Govt. High School, Manali, Chennai.",14.0,15.0,47.0
+2015-07-13,"Govt. High School, Manali, Chennai.",13.0,21.0,32.0
+2015-07-16,"Govt. High School, Manali, Chennai.",16.0,17.0,31.0
+2015-07-20,"Govt. High School, Manali, Chennai.",15.0,17.0,31.0
+2015-07-23,"Govt. High School, Manali, Chennai.",11.0,20.0,25.0
+2015-07-27,"Govt. High School, Manali, Chennai.",14.0,17.0,46.0
+2015-08-06,"Govt. High School, Manali, Chennai.",12.0,17.0,39.0
+2015-08-10,"Govt. High School, Manali, Chennai.",17.0,16.0,29.0
+2015-08-13,"Govt. High School, Manali, Chennai.",14.0,17.0,34.0
+2015-08-17,"Govt. High School, Manali, Chennai.",17.0,20.0,36.0
+2015-08-20,"Govt. High School, Manali, Chennai.",17.0,15.0,58.0
+2015-08-24,"Govt. High School, Manali, Chennai.",13.0,17.0,32.0
+2015-08-27,"Govt. High School, Manali, Chennai.",13.0,17.0,35.0
+2015-08-31,"Govt. High School, Manali, Chennai.",16.0,18.0,28.0
+2015-09-02,"Govt. High School, Manali, Chennai.",14.0,13.0,49.0
+2015-09-03,"Govt. High School, Manali, Chennai.",14.0,17.0,47.0
+2015-09-04,"Govt. High School, Manali, Chennai.",13.0,17.0,46.0
+2015-09-07,"Govt. High School, Manali, Chennai.",13.0,19.0,48.0
+2015-09-11,"Govt. High School, Manali, Chennai.",16.0,15.0,
+2015-10-08,"Govt. High School, Manali, Chennai.",16.0,16.0,50.0
+2015-10-12,"Govt. High School, Manali, Chennai.",12.0,16.0,59.0
+2015-10-15,"Govt. High School, Manali, Chennai.",13.0,17.0,44.0
+2015-10-19,"Govt. High School, Manali, Chennai.",16.0,15.0,37.0
+2015-10-26,"Govt. High School, Manali, Chennai.",13.0,16.0,33.0
+2015-10-29,"Govt. High School, Manali, Chennai.",15.0,15.0,36.0
+2015-11-05,"Govt. High School, Manali, Chennai.",15.0,17.0,36.0
+2015-11-06,"Govt. High School, Manali, Chennai.",15.0,20.0,37.0
+2015-11-19,"Govt. High School, Manali, Chennai.",14.0,19.0,49.0
+2015-11-23,"Govt. High School, Manali, Chennai.",13.0,19.0,47.0
+2015-11-26,"Govt. High School, Manali, Chennai.",13.0,19.0,45.0
+2015-11-30,"Govt. High School, Manali, Chennai.",14.0,21.0,34.0
+2015-12-01,"Govt. High School, Manali, Chennai.",11.0,14.0,36.0
+2015-12-02,"Govt. High School, Manali, Chennai.",13.0,15.0,51.0
+2015-12-03,"Govt. High School, Manali, Chennai.",14.0,14.0,58.0
+2015-12-10,"Govt. High School, Manali, Chennai.",14.0,18.0,35.0
+2015-12-11,"Govt. High School, Manali, Chennai.",19.0,19.0,49.0
+2015-12-14,"Govt. High School, Manali, Chennai.",14.0,19.0,49.0
+2015-12-17,"Govt. High School, Manali, Chennai.",14.0,17.0,55.0
+2015-12-21,"Govt. High School, Manali, Chennai.",15.0,13.0,57.0
+2015-12-28,"Govt. High School, Manali, Chennai.",11.0,16.0,57.0
+2015-12-31,"Govt. High School, Manali, Chennai.",16.0,17.0,58.0
+2010-01-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.6,17.16666667,73.33333333
+2010-01-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.15,20.28333333,61.33333333
+2010-01-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.45,20.51666667,75.0
+2010-01-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.75,18.18333333,120.0
+2010-01-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.78,17.32,96.5
+2010-01-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.11666667,20.86666667,81.33333333
+2010-02-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.48333333,20.66666667,82.33333333
+2010-02-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.93333333,18.65,79.0
+2010-02-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.36666667,19.5,96.66666667
+2010-02-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.16666667,18.38333333,52.66666667
+2010-02-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.18333333,18.63333333,50.66666667
+2010-02-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.56666667,21.48333333,85.0
+2010-02-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.55,19.78333333,88.66666667
+2010-02-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.71666667,22.33333333,83.0
+2010-03-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.633333333,16.61666667,94.66666667
+2010-03-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.38333333,16.58333333,118.3333333
+2010-03-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.7,22.13333333,56.0
+2010-03-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.65,14.36666667,53.33333333
+2010-03-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.71666667,19.36666667,69.66666667
+2010-03-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.18333333,16.6,111.0
+2010-03-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.41666667,20.15,58.0
+2010-03-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.35,20.5,67.66666667
+2010-04-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.316666667,17.31666667,88.0
+2010-04-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.15,16.68333333,61.66666667
+2010-04-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.65,18.25,42.66666667
+2010-04-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.55,16.88333333,39.0
+2010-04-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.3,18.08333333,48.66666667
+2010-04-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.3,18.96666667,43.33333333
+2010-04-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.8,22.38333333,86.66666667
+2010-04-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.13333333,21.4,58.66666667
+2010-04-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.1,19.16666667,46.33333333
+2010-05-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.3,17.53333333,57.0
+2010-05-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.7,18.71666667,79.66666667
+2010-05-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.95,18.9,161.3333333
+2010-05-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.02,15.64,74.33333333
+2010-05-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.91666667,21.65,62.66666667
+2010-05-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.816666667,16.4,89.33333333
+2010-05-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.71666667,23.45,68.33333333
+2010-06-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.266666667,12.73333333,89.33333333
+2010-06-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.53333333,22.21666667,86.0
+2010-06-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.63333333,20.43333333,61.0
+2010-06-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.38333333,20.51666667,73.66666667
+2010-06-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.6,19.38333333,74.0
+2010-06-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.01666667,24.5,95.0
+2010-06-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.966666667,16.91666667,43.66666667
+2010-06-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.7,18.86666667,79.0
+2010-06-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.983333333,15.35,67.0
+2010-07-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.066666667,15.33333333,81.0
+2010-07-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.78333333,21.2,90.66666667
+2010-07-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.6,20.21666667,55.0
+2010-07-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.05,17.5,75.0
+2010-07-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.816666667,15.13333333,59.33333333
+2010-07-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.45,15.96666667,56.66666667
+2010-07-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.3,19.11666667,99.66666667
+2010-07-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.45,22.3,87.66666667
+2010-07-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.15,18.93333333,48.66666667
+2010-08-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.3,18.12,91.33333333
+2010-08-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.866666667,16.55,65.33333333
+2010-08-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.716666667,16.66666667,93.33333333
+2010-08-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.816666667,14.75,85.66666667
+2010-08-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.46666667,23.38333333,54.66666667
+2010-08-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.55,15.38333333,133.6666667
+2010-08-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.43333333,18.01666667,46.66666667
+2010-08-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.916666667,16.53333333,69.0
+2010-08-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.13333333,20.63333333,49.66666667
+2010-09-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.33333333,17.41666667,52.33333333
+2010-09-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.366666667,15.65,85.33333333
+2010-09-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.36666667,19.06666667,63.0
+2010-09-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.816666667,15.33333333,42.66666667
+2010-09-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.75,19.26666667,85.66666667
+2010-09-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.96666667,16.6,64.66666667
+2010-09-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.7,12.85,29.33333333
+2010-09-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.73333333,16.78333333,37.0
+2010-10-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",8.86,14.2,213.3333333
+2010-10-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.366666667,15.38333333,98.33333333
+2010-10-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.06666667,17.08333333,109.0
+2010-10-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.46666667,19.81666667,145.0
+2010-10-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.5,18.0,101.3333333
+2010-10-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.33333333,17.91666667,163.6666667
+2010-10-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.93333333,19.16666667,105.6666667
+2010-10-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.41666667,19.78333333,179.3333333
+2010-11-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.08333333,16.76666667,123.3333333
+2010-11-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.58333333,19.08333333,112.6666667
+2010-11-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.31666667,18.5,55.0
+2010-11-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.533333333,16.53333333,120.6666667
+2010-11-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.93333333,16.9,73.66666667
+2010-11-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.45,14.95,69.66666667
+2010-11-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.93333333,22.48333333,65.0
+2010-11-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.68333333,19.9,92.33333333
+2010-11-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.26666667,17.36666667,83.33333333
+2010-12-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.53333333,18.86666667,61.33333333
+2010-12-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.933333333,16.73333333,90.33333333
+2010-12-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.46666667,17.6,67.33333333
+2010-12-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.35,17.71666667,43.0
+2010-12-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.98333333,21.01666667,47.0
+2010-12-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.76666667,20.63333333,61.0
+2010-12-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.85,17.85,56.33333333
+2010-12-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.56666667,18.31666667,42.33333333
+2010-12-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.61666667,18.43333333,30.66666667
+2010-12-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.46666667,15.73333333,79.0
+2011-01-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,16.0,76.0
+2011-01-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.0,15.0,76.0
+2011-01-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,17.0,165.0
+2011-01-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,19.0,219.0
+2011-01-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,14.0,108.0
+2011-01-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.0,12.0,108.0
+2011-01-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,16.0,75.0
+2011-01-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,20.0,114.0
+2011-02-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,19.0,118.0
+2011-02-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,92.0
+2011-02-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,18.0,120.0
+2011-02-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,130.0
+2011-02-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,25.0,160.0
+2011-02-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,12.0,92.0
+2011-02-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",36.0,20.0,124.0
+2011-02-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,79.0
+2011-03-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,31.0,58.0
+2011-03-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.0,24.0,106.0
+2011-03-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,178.0
+2011-03-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,102.0
+2011-03-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,12.0,60.0
+2011-03-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,13.0,63.0
+2011-03-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,27.0,143.0
+2011-03-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",1.0,20.0,121.0
+2011-03-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,32.0,131.0
+2011-03-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,20.0,183.0
+2011-04-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,21.0,167.0
+2011-04-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,13.0,110.0
+2011-04-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",26.0,17.0,120.0
+2011-04-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,26.0,103.0
+2011-04-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",22.0,24.0,127.0
+2011-04-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",24.0,27.0,77.0
+2011-04-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,70.0
+2011-04-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",24.0,16.0,89.0
+2011-05-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,20.0,157.0
+2011-05-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,13.0,190.0
+2011-05-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,42.0,309.0
+2011-05-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,236.0
+2011-05-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,17.0,181.0
+2011-05-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,19.0,224.0
+2011-05-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,24.0,180.0
+2011-05-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,13.0,142.0
+2011-05-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",28.0,24.0,236.0
+2011-06-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,27.0,214.0
+2011-06-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,27.0,104.0
+2011-06-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,34.0,163.0
+2011-06-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,23.0,163.0
+2011-06-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,25.0,217.0
+2011-06-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",28.0,37.0,108.0
+2011-06-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,19.0,145.0
+2011-06-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,147.0
+2011-06-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,24.0,167.0
+2011-06-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,22.0,157.0
+2011-07-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,26.0,112.0
+2011-07-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,24.0,129.0
+2011-07-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,30.0,130.0
+2011-07-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,24.0,162.0
+2011-07-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,20.0,127.0
+2011-07-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,97.0
+2011-07-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,14.0,89.0
+2011-07-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,19.0,90.0
+2011-08-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",48.0,37.0,82.0
+2011-08-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",48.0,35.0,105.0
+2011-08-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",35.0,32.0,104.0
+2011-08-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",30.0,29.0,105.0
+2011-08-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",25.0,34.0,94.0
+2011-08-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",26.0,38.0,42.0
+2011-08-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",28.0,30.0,85.0
+2011-08-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,29.0,60.0
+2011-09-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",40.0,36.0,123.0
+2011-09-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",34.0,35.0,98.0
+2011-09-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",39.0,32.0,91.0
+2011-09-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",31.0,27.0,144.0
+2011-09-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",39.0,32.0,71.0
+2011-09-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",28.0,27.0,80.0
+2011-09-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",26.0,35.0,102.0
+2011-09-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",35.0,32.0,79.0
+2011-10-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",35.0,33.0,285.0
+2011-10-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",27.0,34.0,363.0
+2011-10-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",31.0,26.0,244.0
+2011-10-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",34.0,29.0,330.0
+2011-10-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",24.0,25.0,340.0
+2011-10-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",27.0,32.0,192.0
+2011-10-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",33.0,30.0,173.0
+2011-11-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",37.0,32.0,24.0
+2011-11-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",34.0,36.0,25.0
+2011-11-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",28.0,64.0,155.0
+2011-11-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",29.0,50.0,87.0
+2011-11-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",41.0,63.0,119.0
+2011-11-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",25.0,45.0,78.0
+2011-11-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",23.0,34.0,94.0
+2011-11-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,31.0,64.0
+2011-11-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,29.0,72.0
+2011-12-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",36.0,41.0,80.0
+2011-12-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",35.0,39.0,87.0
+2011-12-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",34.0,25.0,87.0
+2011-12-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,27.0,55.0
+2011-12-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,18.0,96.0
+2011-12-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",9.0,16.0,82.0
+2011-12-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",26.0,28.0,175.0
+2012-01-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,24.0,59.0
+2012-01-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,22.0,56.0
+2012-01-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,17.0,50.0
+2012-01-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,18.0,44.0
+2012-01-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,19.0,52.0
+2012-01-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,20.0,84.0
+2012-01-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,23.0,55.0
+2012-02-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,16.0,43.0
+2012-02-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,18.0,41.0
+2012-02-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,39.0
+2012-02-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,20.0,58.0
+2012-02-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",22.0,26.0,72.0
+2012-02-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,65.0
+2012-02-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,20.0,46.0
+2012-03-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,24.0,72.0
+2012-03-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,26.0,79.0
+2012-03-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,24.0,94.0
+2012-03-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,25.0,95.0
+2012-03-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,24.0,78.0
+2012-03-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,28.0,98.0
+2012-03-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,28.0,90.0
+2012-03-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,23.0,70.0
+2012-03-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,24.0,71.0
+2012-04-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,23.0,125.0
+2012-04-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,24.0,126.0
+2012-04-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,23.0,70.0
+2012-04-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",22.0,21.0,102.0
+2012-04-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,27.0,65.0
+2012-04-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,22.0,71.0
+2012-04-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,24.0,67.0
+2012-05-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,40.0,129.0
+2012-05-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,37.0,135.0
+2012-05-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,38.0,103.0
+2012-05-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,36.0,107.0
+2012-05-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,36.0,160.0
+2012-05-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,37.0,136.0
+2012-05-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,35.0,146.0
+2012-05-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,33.0,131.0
+2012-05-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,33.0,131.0
+2012-06-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,30.0,144.0
+2012-06-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,31.0,121.0
+2012-06-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,28.0,130.0
+2012-06-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,24.0,98.0
+2012-06-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,27.0,143.0
+2012-06-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,26.0,95.0
+2012-06-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,24.0,68.0
+2012-06-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,27.0,79.0
+2012-07-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,25.0,84.0
+2012-07-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,19.0,63.0
+2012-07-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,103.0
+2012-07-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,21.0,75.0
+2012-07-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,20.0,82.0
+2012-07-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,17.0,80.0
+2012-07-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,48.0
+2012-07-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,24.0,55.0
+2012-07-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,20.0,116.0
+2012-08-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,23.0,88.0
+2012-08-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,20.0,58.0
+2012-08-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,19.0,62.0
+2012-08-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,21.0,59.0
+2012-08-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,27.0,71.0
+2012-08-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,24.0,62.0
+2012-08-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,23.0,95.0
+2012-08-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,20.0,107.0
+2012-09-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,22.0,123.0
+2012-09-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,21.0,73.0
+2012-09-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,19.0,74.0
+2012-09-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,20.0,67.0
+2012-09-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,22.0,79.0
+2012-09-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,80.0
+2012-09-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,81.0
+2012-09-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,18.0,77.0
+2012-10-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,95.0
+2012-10-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,118.0
+2012-10-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,18.0,102.0
+2012-10-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,19.0,94.0
+2012-10-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,73.0
+2012-10-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,88.0
+2012-11-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,46.0,95.0
+2012-11-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,42.0,77.0
+2012-11-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,44.0,76.0
+2012-11-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,42.0,90.0
+2012-11-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,44.0,88.0
+2012-11-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,33.0,61.0
+2012-11-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,46.0,106.0
+2012-11-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,39.0,65.0
+2012-12-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,37.0
+2012-12-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,85.0
+2012-12-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,100.0
+2012-12-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,87.0
+2012-12-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,105.0
+2012-12-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,89.0
+2012-12-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,21.0,104.0
+2013-01-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,20.0,93.0
+2013-01-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,23.0,79.0
+2013-01-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,16.0,69.0
+2013-01-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,19.0,74.0
+2013-01-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,20.0,82.0
+2013-01-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,77.0
+2013-01-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,87.0
+2013-01-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,18.0,72.0
+2013-02-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,19.0,49.0
+2013-02-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,19.0,51.0
+2013-02-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,65.0
+2013-02-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,14.0,39.0
+2013-02-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,16.0,47.0
+2013-02-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,40.0
+2013-02-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,15.0,70.0
+2013-02-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,75.0
+2013-03-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,16.0,47.0
+2013-03-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,18.0,51.0
+2013-03-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,65.0
+2013-03-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,20.0,62.0
+2013-03-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,19.0,41.0
+2013-03-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,19.0,55.0
+2013-03-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,19.0,62.0
+2013-03-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,43.0
+2013-04-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,19.0,54.0
+2013-04-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,19.0,78.0
+2013-04-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,16.0,74.0
+2013-04-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,82.0
+2013-04-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,105.0
+2013-04-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,17.0,79.0
+2013-04-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,81.0
+2013-04-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,14.0,52.0
+2013-05-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,21.0,69.0
+2013-05-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,18.0,49.0
+2013-05-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,21.0,54.0
+2013-05-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,18.0,72.0
+2013-05-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",21.0,19.0,74.0
+2013-05-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",20.0,21.0,59.0
+2013-05-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,69.0
+2013-05-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,18.0,98.0
+2013-05-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,20.0,61.0
+2013-06-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,17.0,61.0
+2013-06-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,19.0,51.0
+2013-06-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,91.0
+2013-06-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,20.0,72.0
+2013-06-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,19.0,54.0
+2013-06-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,18.0,50.0
+2013-06-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,21.0,53.0
+2013-06-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,21.0,51.0
+2013-07-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,66.0
+2013-07-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,62.0
+2013-07-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,62.0
+2013-07-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,65.0
+2013-07-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,14.0,59.0
+2013-07-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,47.0
+2013-07-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,64.0
+2013-07-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,18.0,63.0
+2013-07-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,56.0
+2013-08-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,59.0
+2013-08-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,57.0
+2013-08-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,54.0
+2013-08-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,45.0
+2013-08-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,21.0,49.0
+2013-08-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,18.0,55.0
+2013-08-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,59.0
+2013-08-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,18.0,63.0
+2013-09-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,19.0,53.0
+2013-09-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,18.0,56.0
+2013-09-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,20.0,56.0
+2013-09-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,37.0
+2013-09-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,58.0
+2013-09-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,52.0
+2013-09-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,59.0
+2013-09-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,16.0,49.0
+2013-10-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,20.0,43.0
+2013-10-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,30.0
+2013-10-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,43.0
+2013-10-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,37.0
+2013-10-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,14.0,39.0
+2013-10-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,19.0,37.0
+2013-10-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,19.0,44.0
+2013-10-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,19.0,35.0
+2013-10-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,31.0
+2013-10-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,18.0,30.0
+2013-11-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,50.0
+2013-11-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,52.0
+2013-11-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,55.0
+2013-11-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,14.0,71.0
+2013-11-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,45.0
+2013-11-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,55.0
+2013-11-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,15.0,45.0
+2013-11-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,19.0,41.0
+2013-12-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,13.0,34.0
+2013-12-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,75.0
+2013-12-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,63.0
+2013-12-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,38.0
+2013-12-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,40.0
+2013-12-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,14.0,31.0
+2013-12-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,48.0
+2013-12-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,15.0,53.0
+2013-12-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,15.0,49.0
+2014-01-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,17.0,55.0
+2014-01-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,45.0
+2014-01-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,18.0,50.0
+2014-01-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,46.0
+2014-01-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,42.0
+2014-01-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,18.0,43.0
+2014-02-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,51.0
+2014-02-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,46.0
+2014-02-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,19.0,50.0
+2014-02-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,14.0,48.0
+2014-02-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,32.0
+2014-02-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,14.0,29.0
+2014-02-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,17.0
+2014-02-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,44.0
+2014-03-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,25.0
+2014-03-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,29.0
+2014-03-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,18.0,29.0
+2014-03-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,41.0
+2014-03-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,43.0
+2014-03-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,14.0,42.0
+2014-03-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,54.0
+2014-03-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,19.0,62.0
+2014-04-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,66.0
+2014-04-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,40.0
+2014-04-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,56.0
+2014-04-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,50.0
+2014-04-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,14.0,49.0
+2014-04-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,63.0
+2014-04-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,42.0
+2014-04-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,18.0,44.0
+2014-05-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,43.0
+2014-05-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,14.0,48.0
+2014-05-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,13.0,63.0
+2014-05-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,119.0
+2014-05-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,61.0
+2014-05-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,48.0
+2014-05-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,16.0,52.0
+2014-06-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,18.0,43.0
+2014-06-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,53.0
+2014-06-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,20.0,57.0
+2014-06-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,18.0,39.0
+2014-06-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,14.0,47.0
+2014-06-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,45.0
+2014-06-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,43.0
+2014-06-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,15.0,40.0
+2014-07-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,46.0
+2014-07-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,55.0
+2014-07-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,14.0,42.0
+2014-07-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,35.0
+2014-07-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,40.0
+2014-07-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,15.0,49.0
+2014-07-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,50.0
+2014-07-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,18.0,58.0
+2014-07-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,13.0,42.0
+2014-08-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,17.0,40.0
+2014-08-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,55.0
+2014-08-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,41.0
+2014-08-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,15.0,51.0
+2014-08-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,74.0
+2014-08-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,40.0
+2014-08-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,42.0
+2014-08-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,15.0,42.0
+2014-09-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,12.0,41.0
+2014-09-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,45.0
+2014-09-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,13.0,43.0
+2014-09-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,43.0
+2014-09-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,12.0,34.0
+2014-09-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,12.0,35.0
+2014-09-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,13.0,39.0
+2014-09-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,12.0,45.0
+2014-09-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,10.0,42.0
+2014-10-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,60.0
+2014-10-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,51.0
+2014-10-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,14.0,41.0
+2014-10-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,34.0
+2014-10-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,40.0
+2014-10-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",19.0,14.0,38.0
+2014-10-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,11.0,51.0
+2014-10-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,10.0,47.0
+2014-11-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,104.0
+2014-11-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,16.0,45.0
+2014-11-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,12.0,34.0
+2014-11-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,13.0,41.0
+2014-11-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,12.0,44.0
+2014-11-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,15.0,39.0
+2014-11-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,40.0
+2014-12-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,53.0
+2014-12-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,13.0,56.0
+2014-12-09,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,65.0
+2014-12-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,13.0,33.0
+2014-12-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,15.0,46.0
+2014-12-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,50.0
+2014-12-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,12.0,44.0
+2014-12-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,13.0,45.0
+2015-01-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,17.0,41.0
+2015-01-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,48.0
+2015-01-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,15.0,42.0
+2015-01-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,15.0,36.0
+2015-01-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,12.0,35.0
+2015-02-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,64.0
+2015-02-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,18.0,56.0
+2015-02-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,13.0,64.0
+2015-02-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,14.0,64.0
+2015-02-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,12.0,55.0
+2015-02-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,12.0,53.0
+2015-03-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,53.0
+2015-03-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,60.0
+2015-03-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,40.0
+2015-03-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,12.0,36.0
+2015-03-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,59.0
+2015-03-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,15.0,52.0
+2015-03-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,12.0,58.0
+2015-03-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,13.0,45.0
+2015-03-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,16.0,39.0
+2015-04-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,19.0,59.0
+2015-04-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,44.0
+2015-04-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,13.0,37.0
+2015-04-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,14.0,36.0
+2015-04-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,82.0
+2015-04-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,13.0,48.0
+2015-04-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,17.0,51.0
+2015-05-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,55.0
+2015-05-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,48.0
+2015-05-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,33.0
+2015-05-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,18.0,27.0
+2015-05-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,41.0
+2015-05-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,18.0,57.0
+2015-05-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,13.0,42.0
+2015-05-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,14.0,42.0
+2015-05-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,18.0,48.0
+2015-06-01,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,14.0,50.0
+2015-06-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,42.0
+2015-06-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,33.0
+2015-06-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",,,
+2015-06-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,47.0
+2015-06-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,21.0,50.0
+2015-06-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,53.0
+2015-06-30,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,21.0,40.0
+2015-07-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,46.0
+2015-07-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,15.0,36.0
+2015-07-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,19.0,61.0
+2015-07-14,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,16.0,42.0
+2015-07-16,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,15.0,40.0
+2015-07-21,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,43.0
+2015-07-23,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,19.0,38.0
+2015-07-28,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,16.0,51.0
+2015-08-10,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,42.0
+2015-08-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,12.0,46.0
+2015-08-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,15.0,41.0
+2015-08-18,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,42.0
+2015-08-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",17.0,18.0,64.0
+2015-08-25,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,64.0
+2015-08-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,17.0,29.0
+2015-09-04,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,35.0
+2015-09-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",16.0,22.0,36.0
+2015-09-07,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,18.0,49.0
+2015-10-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,13.0,50.0
+2015-10-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,47.0
+2015-10-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",18.0,24.0,30.0
+2015-10-12,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",,,
+2015-10-13,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",11.0,17.0,44.0
+2015-10-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,18.0,39.0
+2015-10-20,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,13.0,28.0
+2015-10-27,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,34.0
+2015-10-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,15.0,28.0
+2015-11-06,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,49.0
+2015-11-08,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,52.0
+2015-11-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,28.0
+2015-11-19,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,16.0,41.0
+2015-11-24,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,16.0,36.0
+2015-11-26,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,14.0,42.0
+2015-12-02,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",10.0,16.0,64.0
+2015-12-03,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,13.0,36.0
+2015-12-05,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,13.0,44.0
+2015-12-11,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,17.0,28.0
+2015-12-15,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",13.0,14.0,37.0
+2015-12-17,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",15.0,15.0,32.0
+2015-12-22,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",14.0,16.0,32.0
+2015-12-29,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,17.0,44.0
+2015-12-31,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",12.0,13.0,39.0
+2010-01-06,"Thiruvottiyur,  Chennai",14.75,25.73333333,105.0
+2010-01-08,"Thiruvottiyur,  Chennai",15.06666667,26.66666667,83.33333333
+2010-01-13,"Thiruvottiyur,  Chennai",13.6,23.93333333,91.33333333
+2010-01-20,"Thiruvottiyur,  Chennai",11.48333333,20.41666667,174.6666667
+2010-01-22,"Thiruvottiyur,  Chennai",11.63333333,20.43333333,155.3333333
+2010-01-22,"Thiruvottiyur,  Chennai",11.63333333,20.43333333,155.3333333
+2010-01-29,"Thiruvottiyur,  Chennai",25.63333333,21.55,138.3333333
+2010-02-03,"Thiruvottiyur,  Chennai",14.43333333,24.61666667,109.6666667
+2010-02-05,"Thiruvottiyur,  Chennai",11.03333333,19.1,109.3333333
+2010-02-10,"Thiruvottiyur,  Chennai",13.3,20.85,72.33333333
+2010-02-12,"Thiruvottiyur,  Chennai",8.65,12.95,52.0
+2010-02-17,"Thiruvottiyur,  Chennai",8.983333333,13.98333333,82.66666667
+2010-02-19,"Thiruvottiyur,  Chennai",9.6,13.91666667,80.66666667
+2010-02-24,"Thiruvottiyur,  Chennai",15.15,27.0,110.3333333
+2010-02-26,"Thiruvottiyur,  Chennai",11.38333333,18.06666667,88.66666667
+2010-03-03,"Thiruvottiyur,  Chennai",15.23333333,24.48333333,89.66666667
+2010-03-05,"Thiruvottiyur,  Chennai",11.15,18.53333333,84.33333333
+2010-03-10,"Thiruvottiyur,  Chennai",14.23333333,24.46666667,71.33333333
+2010-03-12,"Thiruvottiyur,  Chennai",10.35,17.8,49.66666667
+2010-03-17,"Thiruvottiyur,  Chennai",17.95,30.55,83.33333333
+2010-03-19,"Thiruvottiyur,  Chennai",14.75,24.51666667,67.0
+2010-03-24,"Thiruvottiyur,  Chennai",11.55,16.98333333,76.0
+2010-03-26,"Thiruvottiyur,  Chennai",8.65,13.41666667,60.33333333
+2010-03-31,"Thiruvottiyur,  Chennai",14.3,24.36666667,83.66666667
+2010-04-07,"Thiruvottiyur,  Chennai",12.45,21.16666667,54.66666667
+2010-04-09,"Thiruvottiyur,  Chennai",11.01666667,18.03333333,50.33333333
+2010-04-16,"Thiruvottiyur,  Chennai",10.15,16.96666667,43.0
+2010-04-21,"Thiruvottiyur,  Chennai",11.83333333,21.65,59.33333333
+2010-04-23,"Thiruvottiyur,  Chennai",12.61666667,21.48333333,51.66666667
+2010-04-28,"Thiruvottiyur,  Chennai",17.26666667,28.11666667,49.0
+2010-04-30,"Thiruvottiyur,  Chennai",13.63333333,23.16666667,59.0
+2010-05-05,"Thiruvottiyur,  Chennai",13.5,22.12,118.0
+2010-05-07,"Thiruvottiyur,  Chennai",14.22,26.7,45.33333333
+2010-05-12,"Thiruvottiyur,  Chennai",11.46666667,19.66666667,52.66666667
+2010-05-14,"Thiruvottiyur,  Chennai",11.53333333,20.78333333,50.66666667
+2010-05-21,"Thiruvottiyur,  Chennai",13.66666667,23.36666667,59.33333333
+2010-05-26,"Thiruvottiyur,  Chennai",11.9,21.0,64.66666667
+2010-05-28,"Thiruvottiyur,  Chennai",15.61666667,22.65,30.66666667
+2010-06-02,"Thiruvottiyur,  Chennai",8.7,13.23333333,62.66666667
+2010-06-04,"Thiruvottiyur,  Chennai",14.58333333,25.7,91.33333333
+2010-06-09,"Thiruvottiyur,  Chennai",11.76666667,20.08333333,66.33333333
+2010-06-11,"Thiruvottiyur,  Chennai",12.61666667,21.4,80.66666667
+2010-06-16,"Thiruvottiyur,  Chennai",16.0,13.85,46.5
+2010-06-18,"Thiruvottiyur,  Chennai",13.8,23.88333333,73.0
+2010-06-23,"Thiruvottiyur,  Chennai",12.15,20.2,94.66666667
+2010-06-25,"Thiruvottiyur,  Chennai",12.86,18.74,109.3333333
+2010-06-30,"Thiruvottiyur,  Chennai",12.78333333,21.38333333,69.0
+2010-07-02,"Thiruvottiyur,  Chennai",12.26666667,20.11666667,70.33333333
+2010-07-07,"Thiruvottiyur,  Chennai",11.63333333,19.78333333,55.0
+2010-07-09,"Thiruvottiyur,  Chennai",10.95,18.75,66.66666667
+2010-07-14,"Thiruvottiyur,  Chennai",13.21666667,23.38333333,74.66666667
+2010-07-16,"Thiruvottiyur,  Chennai",13.21666667,21.05,59.0
+2010-07-21,"Thiruvottiyur,  Chennai",16.41666667,20.11666667,116.6666667
+2010-07-23,"Thiruvottiyur,  Chennai",10.4,17.88333333,82.33333333
+2010-07-28,"Thiruvottiyur,  Chennai",12.63333333,21.16666667,124.3333333
+2010-07-30,"Thiruvottiyur,  Chennai",10.6,17.83333333,74.66666667
+2010-08-04,"Thiruvottiyur,  Chennai",10.13333333,16.28333333,69.33333333
+2010-08-06,"Thiruvottiyur,  Chennai",12.61666667,21.08333333,57.66666667
+2010-08-11,"Thiruvottiyur,  Chennai",12.53333333,21.81666667,67.33333333
+2010-08-13,"Thiruvottiyur,  Chennai",11.51666667,18.88333333,63.0
+2010-08-18,"Thiruvottiyur,  Chennai",12.2,20.65,75.5
+2010-08-20,"Thiruvottiyur,  Chennai",9.633333333,14.93333333,56.66666667
+2010-08-25,"Thiruvottiyur,  Chennai",13.35,20.83333333,56.33333333
+2010-08-27,"Thiruvottiyur,  Chennai",14.88333333,18.51666667,242.3333333
+2010-09-03,"Thiruvottiyur,  Chennai",15.36666667,24.81666667,45.0
+2010-09-08,"Thiruvottiyur,  Chennai",9.9,16.91666667,64.0
+2010-09-15,"Thiruvottiyur,  Chennai",11.6,19.51666667,60.66666667
+2010-09-17,"Thiruvottiyur,  Chennai",9.033333333,12.68333333,64.0
+2010-09-22,"Thiruvottiyur,  Chennai",14.55,24.15,47.66666667
+2010-09-24,"Thiruvottiyur,  Chennai",9.35,13.28333333,57.66666667
+2010-09-29,"Thiruvottiyur,  Chennai",11.41666667,19.85,52.0
+2010-10-01,"Thiruvottiyur,  Chennai",11.56666667,19.66666667,90.33333333
+2010-10-06,"Thiruvottiyur,  Chennai",12.58333333,21.35,117.6666667
+2010-10-08,"Thiruvottiyur,  Chennai",10.45,16.08333333,108.3333333
+2010-10-13,"Thiruvottiyur,  Chennai",12.23333333,20.08333333,160.0
+2010-10-15,"Thiruvottiyur,  Chennai",11.96666667,20.73333333,144.6666667
+2010-10-20,"Thiruvottiyur,  Chennai",11.6,19.03333333,98.0
+2010-10-22,"Thiruvottiyur,  Chennai",13.45,23.2,136.0
+2010-10-27,"Thiruvottiyur,  Chennai",10.63333333,17.45,107.6666667
+2010-10-29,"Thiruvottiyur,  Chennai",15.86666667,20.81666667,83.0
+2010-11-03,"Thiruvottiyur,  Chennai",9.32,14.14,79.66666667
+2010-11-10,"Thiruvottiyur,  Chennai",12.63333333,21.9,98.66666667
+2010-11-12,"Thiruvottiyur,  Chennai",10.58333333,17.5,98.0
+2010-11-19,"Thiruvottiyur,  Chennai",9.316666667,13.11666667,84.0
+2010-11-24,"Thiruvottiyur,  Chennai",10.95,18.3,131.3333333
+2010-11-26,"Thiruvottiyur,  Chennai",14.96666667,18.78333333,110.0
+2010-12-01,"Thiruvottiyur,  Chennai",13.66666667,21.63333333,70.66666667
+2010-12-03,"Thiruvottiyur,  Chennai",11.35,20.26666667,103.3333333
+2010-12-08,"Thiruvottiyur,  Chennai",12.28333333,18.76666667,89.0
+2010-12-10,"Thiruvottiyur,  Chennai",10.46666667,13.73333333,132.0
+2010-12-15,"Thiruvottiyur,  Chennai",12.43333333,18.66666667,79.33333333
+2010-12-22,"Thiruvottiyur,  Chennai",,,
+2010-12-24,"Thiruvottiyur,  Chennai",15.31666667,18.86666667,55.33333333
+2010-12-31,"Thiruvottiyur,  Chennai",12.8,20.75,120.6666667
+2011-01-05,"Thiruvottiyur,  Chennai",13.0,19.0,98.0
+2011-01-07,"Thiruvottiyur,  Chennai",11.0,20.0,166.0
+2011-01-12,"Thiruvottiyur,  Chennai",9.0,12.0,149.0
+2011-01-14,"Thiruvottiyur,  Chennai",12.0,19.0,93.0
+2011-01-19,"Thiruvottiyur,  Chennai",12.0,20.0,73.0
+2011-01-21,"Thiruvottiyur,  Chennai",11.0,21.0,61.0
+2011-01-28,"Thiruvottiyur,  Chennai",9.0,13.0,73.0
+2011-02-02,"Thiruvottiyur,  Chennai",12.0,20.0,93.0
+2011-02-04,"Thiruvottiyur,  Chennai",12.0,20.0,128.0
+2011-02-09,"Thiruvottiyur,  Chennai",13.0,20.0,118.0
+2011-02-11,"Thiruvottiyur,  Chennai",11.0,19.0,133.0
+2011-02-17,"Thiruvottiyur,  Chennai",38.0,36.0,74.0
+2011-02-18,"Thiruvottiyur,  Chennai",11.0,14.0,64.0
+2011-02-23,"Thiruvottiyur,  Chennai",12.0,20.0,73.0
+2011-02-25,"Thiruvottiyur,  Chennai",12.0,19.0,89.0
+2011-03-02,"Thiruvottiyur,  Chennai",8.0,19.0,106.0
+2011-03-04,"Thiruvottiyur,  Chennai",15.0,23.0,81.0
+2011-03-09,"Thiruvottiyur,  Chennai",12.0,24.0,98.0
+2011-03-11,"Thiruvottiyur,  Chennai",11.0,22.0,40.0
+2011-03-16,"Thiruvottiyur,  Chennai",9.0,20.0,52.0
+2011-03-18,"Thiruvottiyur,  Chennai",12.0,12.0,57.0
+2011-03-23,"Thiruvottiyur,  Chennai",15.0,33.0,61.0
+2011-03-25,"Thiruvottiyur,  Chennai",14.0,12.0,42.0
+2011-03-30,"Thiruvottiyur,  Chennai",12.0,12.0,57.0
+2011-04-01,"Thiruvottiyur,  Chennai",10.0,30.0,89.0
+2011-04-06,"Thiruvottiyur,  Chennai",12.0,12.0,82.0
+2011-04-08,"Thiruvottiyur,  Chennai",11.0,13.0,35.0
+2011-04-15,"Thiruvottiyur,  Chennai",10.0,16.0,44.0
+2011-04-20,"Thiruvottiyur,  Chennai",9.0,16.0,50.0
+2011-04-27,"Thiruvottiyur,  Chennai",17.0,17.0,79.0
+2011-04-29,"Thiruvottiyur,  Chennai",9.0,19.0,67.0
+2011-05-04,"Thiruvottiyur,  Chennai",10.0,15.0,103.0
+2011-05-06,"Thiruvottiyur,  Chennai",9.0,12.0,70.0
+2011-05-11,"Thiruvottiyur,  Chennai",13.0,20.0,87.0
+2011-05-13,"Thiruvottiyur,  Chennai",9.0,13.0,69.0
+2011-05-18,"Thiruvottiyur,  Chennai",10.0,15.0,89.0
+2011-05-20,"Thiruvottiyur,  Chennai",9.0,13.0,54.0
+2011-05-25,"Thiruvottiyur,  Chennai",11.0,15.0,53.0
+2011-05-27,"Thiruvottiyur,  Chennai",9.0,13.0,76.0
+2011-06-01,"Thiruvottiyur,  Chennai",9.0,12.0,105.0
+2011-06-03,"Thiruvottiyur,  Chennai",9.0,15.0,58.0
+2011-06-08,"Thiruvottiyur,  Chennai",14.0,37.0,60.0
+2011-06-10,"Thiruvottiyur,  Chennai",18.0,23.0,67.0
+2011-06-15,"Thiruvottiyur,  Chennai",16.0,30.0,126.0
+2011-06-17,"Thiruvottiyur,  Chennai",9.0,50.0,101.0
+2011-06-22,"Thiruvottiyur,  Chennai",16.0,45.0,89.0
+2011-06-24,"Thiruvottiyur,  Chennai",12.0,17.0,66.0
+2011-06-29,"Thiruvottiyur,  Chennai",20.0,19.0,109.0
+2011-07-01,"Thiruvottiyur,  Chennai",11.0,13.0,120.0
+2011-07-06,"Thiruvottiyur,  Chennai",9.0,17.0,111.0
+2011-07-08,"Thiruvottiyur,  Chennai",14.0,31.0,75.0
+2011-07-13,"Thiruvottiyur,  Chennai",17.0,24.0,119.0
+2011-07-15,"Thiruvottiyur,  Chennai",12.0,19.0,102.0
+2011-07-20,"Thiruvottiyur,  Chennai",8.0,15.0,92.0
+2011-07-22,"Thiruvottiyur,  Chennai",17.0,19.0,105.0
+2011-07-27,"Thiruvottiyur,  Chennai",12.0,17.0,64.0
+2011-07-29,"Thiruvottiyur,  Chennai",17.0,17.0,65.0
+2011-08-03,"Thiruvottiyur,  Chennai",35.0,29.0,68.0
+2011-08-05,"Thiruvottiyur,  Chennai",37.0,33.0,51.0
+2011-08-10,"Thiruvottiyur,  Chennai",41.0,41.0,53.0
+2011-08-12,"Thiruvottiyur,  Chennai",41.0,38.0,63.0
+2011-08-19,"Thiruvottiyur,  Chennai",35.0,39.0,31.0
+2011-08-24,"Thiruvottiyur,  Chennai",42.0,32.0,52.0
+2011-08-26,"Thiruvottiyur,  Chennai",36.0,36.0,27.0
+2011-09-02,"Thiruvottiyur,  Chennai",14.0,29.0,61.0
+2011-09-07,"Thiruvottiyur,  Chennai",31.0,33.0,62.0
+2011-09-09,"Thiruvottiyur,  Chennai",30.0,37.0,53.0
+2011-09-14,"Thiruvottiyur,  Chennai",34.0,37.0,36.0
+2011-09-16,"Thiruvottiyur,  Chennai",35.0,29.0,53.0
+2011-09-21,"Thiruvottiyur,  Chennai",32.0,33.0,102.0
+2011-09-23,"Thiruvottiyur,  Chennai",35.0,34.0,54.0
+2011-09-28,"Thiruvottiyur,  Chennai",30.0,25.0,71.0
+2011-09-30,"Thiruvottiyur,  Chennai",31.0,31.0,77.0
+2011-10-07,"Thiruvottiyur,  Chennai",15.0,31.0,99.0
+2011-10-12,"Thiruvottiyur,  Chennai",29.0,33.0,67.0
+2011-10-14,"Thiruvottiyur,  Chennai",31.0,37.0,88.0
+2011-10-19,"Thiruvottiyur,  Chennai",30.0,35.0,112.0
+2011-10-21,"Thiruvottiyur,  Chennai",32.0,29.0,121.0
+2011-10-28,"Thiruvottiyur,  Chennai",25.0,29.0,67.0
+2011-11-02,"Thiruvottiyur,  Chennai",35.0,44.0,41.0
+2011-11-04,"Thiruvottiyur,  Chennai",38.0,52.0,22.0
+2011-11-09,"Thiruvottiyur,  Chennai",34.0,57.0,80.0
+2011-11-11,"Thiruvottiyur,  Chennai",25.0,48.0,87.0
+2011-11-16,"Thiruvottiyur,  Chennai",24.0,61.0,127.0
+2011-11-18,"Thiruvottiyur,  Chennai",27.0,49.0,120.0
+2011-11-23,"Thiruvottiyur,  Chennai",17.0,26.0,110.0
+2011-11-25,"Thiruvottiyur,  Chennai",19.0,33.0,47.0
+2011-11-30,"Thiruvottiyur,  Chennai",17.0,35.0,106.0
+2011-12-02,"Thiruvottiyur,  Chennai",18.0,33.0,112.0
+2011-12-07,"Thiruvottiyur,  Chennai",29.0,38.0,197.0
+2011-12-09,"Thiruvottiyur,  Chennai",28.0,20.0,52.0
+2011-12-14,"Thiruvottiyur,  Chennai",17.0,26.0,115.0
+2011-12-16,"Thiruvottiyur,  Chennai",12.0,23.0,121.0
+2011-12-21,"Thiruvottiyur,  Chennai",16.0,21.0,153.0
+2011-12-23,"Thiruvottiyur,  Chennai",10.0,15.0,134.0
+2011-12-28,"Thiruvottiyur,  Chennai",16.0,22.0,152.0
+2012-01-04,"Thiruvottiyur,  Chennai",14.0,22.0,39.0
+2012-01-06,"Thiruvottiyur,  Chennai",14.0,36.0,32.0
+2012-01-18,"Thiruvottiyur,  Chennai",15.0,18.0,37.0
+2012-01-20,"Thiruvottiyur,  Chennai",15.0,24.0,59.0
+2012-01-25,"Thiruvottiyur,  Chennai",17.0,21.0,88.0
+2012-01-27,"Thiruvottiyur,  Chennai",15.0,19.0,73.0
+2012-02-01,"Thiruvottiyur,  Chennai",15.0,31.0,70.0
+2012-02-03,"Thiruvottiyur,  Chennai",15.0,22.0,85.0
+2012-02-08,"Thiruvottiyur,  Chennai",11.0,24.0,79.0
+2012-02-10,"Thiruvottiyur,  Chennai",11.0,29.0,40.0
+2012-02-15,"Thiruvottiyur,  Chennai",15.0,23.0,58.0
+2012-02-17,"Thiruvottiyur,  Chennai",20.0,21.0,60.0
+2012-02-22,"Thiruvottiyur,  Chennai",20.0,30.0,57.0
+2012-02-29,"Thiruvottiyur,  Chennai",27.0,23.0,79.0
+2012-03-02,"Thiruvottiyur,  Chennai",19.0,24.0,83.0
+2012-03-07,"Thiruvottiyur,  Chennai",14.0,26.0,68.0
+2012-03-09,"Thiruvottiyur,  Chennai",15.0,26.0,58.0
+2012-03-14,"Thiruvottiyur,  Chennai",15.0,26.0,62.0
+2012-03-16,"Thiruvottiyur,  Chennai",21.0,27.0,58.0
+2012-03-21,"Thiruvottiyur,  Chennai",23.0,26.0,60.0
+2012-03-28,"Thiruvottiyur,  Chennai",19.0,31.0,60.0
+2012-03-30,"Thiruvottiyur,  Chennai",15.0,25.0,74.0
+2012-04-04,"Thiruvottiyur,  Chennai",15.0,24.0,64.0
+2012-04-11,"Thiruvottiyur,  Chennai",15.0,25.0,53.0
+2012-04-18,"Thiruvottiyur,  Chennai",12.0,25.0,41.0
+2012-04-20,"Thiruvottiyur,  Chennai",13.0,29.0,69.0
+2012-04-25,"Thiruvottiyur,  Chennai",15.0,30.0,47.0
+2012-04-27,"Thiruvottiyur,  Chennai",14.0,25.0,47.0
+2012-05-02,"Thiruvottiyur,  Chennai",12.0,30.0,76.0
+2012-05-04,"Thiruvottiyur,  Chennai",14.0,31.0,105.0
+2012-05-09,"Thiruvottiyur,  Chennai",13.0,30.0,84.0
+2012-05-11,"Thiruvottiyur,  Chennai",13.0,28.0,89.0
+2012-05-16,"Thiruvottiyur,  Chennai",15.0,30.0,72.0
+2012-05-18,"Thiruvottiyur,  Chennai",13.0,28.0,88.0
+2012-05-23,"Thiruvottiyur,  Chennai",14.0,31.0,98.0
+2012-05-25,"Thiruvottiyur,  Chennai",14.0,30.0,99.0
+2012-05-29,"Thiruvottiyur,  Chennai",15.0,30.0,80.0
+2012-05-30,"Thiruvottiyur,  Chennai",14.0,26.0,124.0
+2012-06-01,"Thiruvottiyur,  Chennai",19.0,23.0,139.0
+2012-06-06,"Thiruvottiyur,  Chennai",19.0,27.0,116.0
+2012-06-08,"Thiruvottiyur,  Chennai",18.0,27.0,122.0
+2012-06-15,"Thiruvottiyur,  Chennai",17.0,25.0,116.0
+2012-06-20,"Thiruvottiyur,  Chennai",19.0,28.0,151.0
+2012-06-22,"Thiruvottiyur,  Chennai",15.0,26.0,91.0
+2012-06-27,"Thiruvottiyur,  Chennai",16.0,25.0,85.0
+2012-07-04,"Thiruvottiyur,  Chennai",14.0,20.0,81.0
+2012-07-06,"Thiruvottiyur,  Chennai",14.0,22.0,46.0
+2012-07-11,"Thiruvottiyur,  Chennai",15.0,21.0,74.0
+2012-07-13,"Thiruvottiyur,  Chennai",13.0,20.0,76.0
+2012-07-18,"Thiruvottiyur,  Chennai",13.0,23.0,73.0
+2012-07-20,"Thiruvottiyur,  Chennai",13.0,25.0,94.0
+2012-07-25,"Thiruvottiyur,  Chennai",17.0,23.0,89.0
+2012-07-27,"Thiruvottiyur,  Chennai",16.0,23.0,81.0
+2012-08-01,"Thiruvottiyur,  Chennai",17.0,19.0,106.0
+2012-08-03,"Thiruvottiyur,  Chennai",16.0,18.0,94.0
+2012-08-08,"Thiruvottiyur,  Chennai",18.0,22.0,79.0
+2012-08-10,"Thiruvottiyur,  Chennai",16.0,18.0,70.0
+2012-08-13,"Thiruvottiyur,  Chennai",17.0,26.0,85.0
+2012-08-17,"Thiruvottiyur,  Chennai",19.0,20.0,85.0
+2012-08-22,"Thiruvottiyur,  Chennai",20.0,22.0,51.0
+2012-08-24,"Thiruvottiyur,  Chennai",16.0,51.0,58.0
+2012-08-29,"Thiruvottiyur,  Chennai",20.0,20.0,72.0
+2012-08-31,"Thiruvottiyur,  Chennai",18.0,17.0,82.0
+2012-09-05,"Thiruvottiyur,  Chennai",14.0,19.0,77.0
+2012-09-07,"Thiruvottiyur,  Chennai",16.0,17.0,71.0
+2012-09-12,"Thiruvottiyur,  Chennai",14.0,21.0,69.0
+2012-09-14,"Thiruvottiyur,  Chennai",17.0,18.0,67.0
+2012-09-21,"Thiruvottiyur,  Chennai",,,
+2012-09-26,"Thiruvottiyur,  Chennai",17.0,18.0,107.0
+2012-09-28,"Thiruvottiyur,  Chennai",14.0,18.0,103.0
+2012-10-03,"Thiruvottiyur,  Chennai",14.0,20.0,98.0
+2012-10-05,"Thiruvottiyur,  Chennai",13.0,18.0,93.0
+2012-10-10,"Thiruvottiyur,  Chennai",17.0,17.0,98.0
+2012-10-12,"Thiruvottiyur,  Chennai",14.0,17.0,104.0
+2012-10-17,"Thiruvottiyur,  Chennai",12.0,17.0,93.0
+2012-10-26,"Thiruvottiyur,  Chennai",16.0,16.0,107.0
+2012-11-02,"Thiruvottiyur,  Chennai",15.0,16.0,93.0
+2012-11-07,"Thiruvottiyur,  Chennai",13.0,18.0,84.0
+2012-11-09,"Thiruvottiyur,  Chennai",,,96.0
+2012-11-14,"Thiruvottiyur,  Chennai",14.0,18.0,126.0
+2012-11-16,"Thiruvottiyur,  Chennai",14.0,14.0,107.0
+2012-11-21,"Thiruvottiyur,  Chennai",13.0,17.0,100.0
+2012-11-23,"Thiruvottiyur,  Chennai",12.0,17.0,76.0
+2012-11-28,"Thiruvottiyur,  Chennai",11.0,18.0,85.0
+2012-11-30,"Thiruvottiyur,  Chennai",14.0,21.0,79.0
+2012-12-05,"Thiruvottiyur,  Chennai",15.0,18.0,59.0
+2012-12-07,"Thiruvottiyur,  Chennai",15.0,13.0,96.0
+2012-12-12,"Thiruvottiyur,  Chennai",16.0,17.0,88.0
+2012-12-14,"Thiruvottiyur,  Chennai",18.0,15.0,107.0
+2012-12-19,"Thiruvottiyur,  Chennai",15.0,18.0,102.0
+2012-12-21,"Thiruvottiyur,  Chennai",13.0,17.0,109.0
+2012-12-26,"Thiruvottiyur,  Chennai",16.0,15.0,108.0
+2012-12-28,"Thiruvottiyur,  Chennai",14.0,18.0,85.0
+2013-01-04,"Thiruvottiyur,  Chennai",15.0,17.0,92.0
+2013-01-11,"Thiruvottiyur,  Chennai",13.0,16.0,120.0
+2013-01-18,"Thiruvottiyur,  Chennai",15.0,17.0,91.0
+2013-01-23,"Thiruvottiyur,  Chennai",15.0,17.0,93.0
+2013-01-30,"Thiruvottiyur,  Chennai",15.0,17.0,84.0
+2013-02-01,"Thiruvottiyur,  Chennai",15.0,18.0,106.0
+2013-02-06,"Thiruvottiyur,  Chennai",15.0,18.0,74.0
+2013-02-08,"Thiruvottiyur,  Chennai",16.0,22.0,92.0
+2013-02-13,"Thiruvottiyur,  Chennai",17.0,16.0,64.0
+2013-02-15,"Thiruvottiyur,  Chennai",12.0,19.0,86.0
+2013-02-20,"Thiruvottiyur,  Chennai",16.0,18.0,57.0
+2013-02-22,"Thiruvottiyur,  Chennai",17.0,18.0,59.0
+2013-02-27,"Thiruvottiyur,  Chennai",14.0,18.0,82.0
+2013-03-01,"Thiruvottiyur,  Chennai",16.0,17.0,100.0
+2013-03-06,"Thiruvottiyur,  Chennai",20.0,23.0,46.0
+2013-03-08,"Thiruvottiyur,  Chennai",12.0,18.0,68.0
+2013-03-15,"Thiruvottiyur,  Chennai",14.0,20.0,67.0
+2013-03-20,"Thiruvottiyur,  Chennai",17.0,19.0,48.0
+2013-03-22,"Thiruvottiyur,  Chennai",16.0,20.0,78.0
+2013-03-27,"Thiruvottiyur,  Chennai",15.0,18.0,66.0
+2013-04-03,"Thiruvottiyur,  Chennai",16.0,21.0,49.0
+2013-04-05,"Thiruvottiyur,  Chennai",16.0,15.0,45.0
+2013-04-10,"Thiruvottiyur,  Chennai",15.0,17.0,55.0
+2013-04-12,"Thiruvottiyur,  Chennai",13.0,18.0,64.0
+2013-04-17,"Thiruvottiyur,  Chennai",15.0,18.0,68.0
+2013-04-19,"Thiruvottiyur,  Chennai",12.0,19.0,49.0
+2013-04-26,"Thiruvottiyur,  Chennai",20.0,22.0,51.0
+2013-05-03,"Thiruvottiyur,  Chennai",18.0,19.0,59.0
+2013-05-08,"Thiruvottiyur,  Chennai",19.0,17.0,57.0
+2013-05-10,"Thiruvottiyur,  Chennai",19.0,20.0,52.0
+2013-05-15,"Thiruvottiyur,  Chennai",15.0,17.0,71.0
+2013-05-17,"Thiruvottiyur,  Chennai",14.0,19.0,54.0
+2013-05-22,"Thiruvottiyur,  Chennai",16.0,19.0,53.0
+2013-05-24,"Thiruvottiyur,  Chennai",18.0,20.0,79.0
+2013-05-29,"Thiruvottiyur,  Chennai",19.0,20.0,60.0
+2013-05-31,"Thiruvottiyur,  Chennai",11.0,14.0,71.0
+2013-06-05,"Thiruvottiyur,  Chennai",18.0,19.0,99.0
+2013-06-07,"Thiruvottiyur,  Chennai",13.0,18.0,50.0
+2013-06-12,"Thiruvottiyur,  Chennai",16.0,18.0,67.0
+2013-06-14,"Thiruvottiyur,  Chennai",16.0,19.0,102.0
+2013-06-19,"Thiruvottiyur,  Chennai",16.0,21.0,88.0
+2013-06-21,"Thiruvottiyur,  Chennai",16.0,16.0,65.0
+2013-06-26,"Thiruvottiyur,  Chennai",16.0,19.0,101.0
+2013-06-28,"Thiruvottiyur,  Chennai",19.0,17.0,48.0
+2013-07-03,"Thiruvottiyur,  Chennai",14.0,17.0,60.0
+2013-07-05,"Thiruvottiyur,  Chennai",11.0,17.0,45.0
+2013-07-10,"Thiruvottiyur,  Chennai",13.0,18.0,84.0
+2013-07-12,"Thiruvottiyur,  Chennai",16.0,16.0,59.0
+2013-07-17,"Thiruvottiyur,  Chennai",14.0,14.0,63.0
+2013-07-19,"Thiruvottiyur,  Chennai",12.0,18.0,60.0
+2013-07-24,"Thiruvottiyur,  Chennai",12.0,17.0,60.0
+2013-07-26,"Thiruvottiyur,  Chennai",14.0,17.0,92.0
+2013-07-31,"Thiruvottiyur,  Chennai",15.0,19.0,73.0
+2013-08-02,"Thiruvottiyur,  Chennai",13.0,16.0,48.0
+2013-08-07,"Thiruvottiyur,  Chennai",13.0,18.0,53.0
+2013-08-16,"Thiruvottiyur,  Chennai",14.0,18.0,65.0
+2013-08-21,"Thiruvottiyur,  Chennai",14.0,21.0,56.0
+2013-08-23,"Thiruvottiyur,  Chennai",15.0,18.0,37.0
+2013-08-30,"Thiruvottiyur,  Chennai",18.0,21.0,56.0
+2013-09-04,"Thiruvottiyur,  Chennai",14.0,16.0,45.0
+2013-09-06,"Thiruvottiyur,  Chennai",17.0,20.0,44.0
+2013-09-11,"Thiruvottiyur,  Chennai",14.0,18.0,51.0
+2013-09-13,"Thiruvottiyur,  Chennai",12.0,17.0,42.0
+2013-09-18,"Thiruvottiyur,  Chennai",14.0,19.0,64.0
+2013-09-20,"Thiruvottiyur,  Chennai",14.0,20.0,42.0
+2013-09-25,"Thiruvottiyur,  Chennai",16.0,19.0,57.0
+2013-09-27,"Thiruvottiyur,  Chennai",15.0,15.0,65.0
+2013-10-04,"Thiruvottiyur,  Chennai",15.0,17.0,54.0
+2013-10-09,"Thiruvottiyur,  Chennai",15.0,18.0,81.0
+2013-10-11,"Thiruvottiyur,  Chennai",16.0,18.0,61.0
+2013-10-18,"Thiruvottiyur,  Chennai",15.0,16.0,26.0
+2013-10-25,"Thiruvottiyur,  Chennai",20.0,19.0,45.0
+2013-10-30,"Thiruvottiyur,  Chennai",16.0,14.0,29.0
+2013-11-01,"Thiruvottiyur,  Chennai",15.0,16.0,32.0
+2013-11-06,"Thiruvottiyur,  Chennai",15.0,17.0,44.0
+2013-11-08,"Thiruvottiyur,  Chennai",17.0,19.0,40.0
+2013-11-13,"Thiruvottiyur,  Chennai",15.0,16.0,99.0
+2013-11-20,"Thiruvottiyur,  Chennai",15.0,17.0,87.0
+2013-11-22,"Thiruvottiyur,  Chennai",11.0,18.0,53.0
+2013-11-27,"Thiruvottiyur,  Chennai",16.0,14.0,43.0
+2013-11-29,"Thiruvottiyur,  Chennai",15.0,18.0,77.0
+2013-12-04,"Thiruvottiyur,  Chennai",12.0,16.0,33.0
+2013-12-06,"Thiruvottiyur,  Chennai",14.0,16.0,58.0
+2013-12-11,"Thiruvottiyur,  Chennai",17.0,16.0,67.0
+2013-12-13,"Thiruvottiyur,  Chennai",13.0,15.0,40.0
+2013-12-18,"Thiruvottiyur,  Chennai",15.0,13.0,55.0
+2013-12-20,"Thiruvottiyur,  Chennai",14.0,15.0,64.0
+2013-12-27,"Thiruvottiyur,  Chennai",15.0,18.0,53.0
+2014-01-03,"Thiruvottiyur,  Chennai",13.0,17.0,31.0
+2014-01-08,"Thiruvottiyur,  Chennai",11.0,16.0,40.0
+2014-01-10,"Thiruvottiyur,  Chennai",13.0,17.0,30.0
+2014-01-17,"Thiruvottiyur,  Chennai",16.0,18.0,31.0
+2014-01-22,"Thiruvottiyur,  Chennai",12.0,14.0,35.0
+2014-01-24,"Thiruvottiyur,  Chennai",14.0,18.0,38.0
+2014-01-29,"Thiruvottiyur,  Chennai",14.0,16.0,49.0
+2014-01-31,"Thiruvottiyur,  Chennai",14.0,15.0,36.0
+2014-02-05,"Thiruvottiyur,  Chennai",13.0,17.0,54.0
+2014-02-07,"Thiruvottiyur,  Chennai",14.0,17.0,51.0
+2014-02-12,"Thiruvottiyur,  Chennai",13.0,18.0,44.0
+2014-02-14,"Thiruvottiyur,  Chennai",16.0,16.0,41.0
+2014-02-19,"Thiruvottiyur,  Chennai",10.0,18.0,46.0
+2014-02-21,"Thiruvottiyur,  Chennai",14.0,17.0,46.0
+2014-02-26,"Thiruvottiyur,  Chennai",13.0,17.0,25.0
+2014-02-28,"Thiruvottiyur,  Chennai",14.0,13.0,35.0
+2014-03-05,"Thiruvottiyur,  Chennai",14.0,18.0,28.0
+2014-03-07,"Thiruvottiyur,  Chennai",14.0,17.0,46.0
+2014-03-12,"Thiruvottiyur,  Chennai",12.0,19.0,68.0
+2014-03-14,"Thiruvottiyur,  Chennai",16.0,15.0,53.0
+2014-03-19,"Thiruvottiyur,  Chennai",10.0,17.0,53.0
+2014-03-21,"Thiruvottiyur,  Chennai",14.0,16.0,36.0
+2014-03-26,"Thiruvottiyur,  Chennai",13.0,17.0,41.0
+2014-03-28,"Thiruvottiyur,  Chennai",14.0,13.0,46.0
+2014-04-02,"Thiruvottiyur,  Chennai",13.0,17.0,42.0
+2014-04-04,"Thiruvottiyur,  Chennai",15.0,19.0,40.0
+2014-04-09,"Thiruvottiyur,  Chennai",13.0,17.0,42.0
+2014-04-11,"Thiruvottiyur,  Chennai",14.0,15.0,46.0
+2014-04-16,"Thiruvottiyur,  Chennai",11.0,19.0,35.0
+2014-04-23,"Thiruvottiyur,  Chennai",14.0,17.0,43.0
+2014-04-25,"Thiruvottiyur,  Chennai",13.0,18.0,30.0
+2014-04-30,"Thiruvottiyur,  Chennai",15.0,17.0,27.0
+2014-05-02,"Thiruvottiyur,  Chennai",12.0,15.0,34.0
+2014-05-07,"Thiruvottiyur,  Chennai",15.0,16.0,32.0
+2014-05-09,"Thiruvottiyur,  Chennai",14.0,16.0,45.0
+2014-05-14,"Thiruvottiyur,  Chennai",13.0,15.0,32.0
+2014-05-16,"Thiruvottiyur,  Chennai",13.0,15.0,48.0
+2014-05-21,"Thiruvottiyur,  Chennai",14.0,19.0,33.0
+2014-05-23,"Thiruvottiyur,  Chennai",12.0,17.0,41.0
+2014-05-28,"Thiruvottiyur,  Chennai",15.0,15.0,32.0
+2014-05-30,"Thiruvottiyur,  Chennai",10.0,13.0,36.0
+2014-06-04,"Thiruvottiyur,  Chennai",15.0,16.0,38.0
+2014-06-06,"Thiruvottiyur,  Chennai",15.0,18.0,39.0
+2014-06-11,"Thiruvottiyur,  Chennai",13.0,19.0,36.0
+2014-06-13,"Thiruvottiyur,  Chennai",11.0,17.0,54.0
+2014-06-18,"Thiruvottiyur,  Chennai",13.0,14.0,71.0
+2014-06-20,"Thiruvottiyur,  Chennai",16.0,19.0,47.0
+2014-06-25,"Thiruvottiyur,  Chennai",15.0,16.0,58.0
+2014-06-27,"Thiruvottiyur,  Chennai",14.0,16.0,42.0
+2014-07-02,"Thiruvottiyur,  Chennai",14.0,16.0,36.0
+2014-07-04,"Thiruvottiyur,  Chennai",15.0,17.0,52.0
+2014-07-09,"Thiruvottiyur,  Chennai",14.0,19.0,37.0
+2014-07-11,"Thiruvottiyur,  Chennai",15.0,14.0,43.0
+2014-07-16,"Thiruvottiyur,  Chennai",12.0,16.0,35.0
+2014-07-18,"Thiruvottiyur,  Chennai",11.0,17.0,45.0
+2014-07-23,"Thiruvottiyur,  Chennai",16.0,15.0,36.0
+2014-07-25,"Thiruvottiyur,  Chennai",11.0,16.0,24.0
+2014-07-30,"Thiruvottiyur,  Chennai",13.0,17.0,68.0
+2014-08-01,"Thiruvottiyur,  Chennai",14.0,15.0,100.0
+2014-08-06,"Thiruvottiyur,  Chennai",15.0,14.0,46.0
+2014-08-08,"Thiruvottiyur,  Chennai",17.0,15.0,30.0
+2014-08-13,"Thiruvottiyur,  Chennai",13.0,15.0,41.0
+2014-08-20,"Thiruvottiyur,  Chennai",14.0,18.0,35.0
+2014-08-22,"Thiruvottiyur,  Chennai",14.0,17.0,38.0
+2014-08-27,"Thiruvottiyur,  Chennai",16.0,13.0,44.0
+2014-09-03,"Thiruvottiyur,  Chennai",11.0,16.0,31.0
+2014-09-05,"Thiruvottiyur,  Chennai",10.0,15.0,37.0
+2014-09-10,"Thiruvottiyur,  Chennai",10.0,15.0,32.0
+2014-09-12,"Thiruvottiyur,  Chennai",10.0,14.0,33.0
+2014-09-17,"Thiruvottiyur,  Chennai",14.0,13.0,48.0
+2014-09-19,"Thiruvottiyur,  Chennai",14.0,12.0,41.0
+2014-09-24,"Thiruvottiyur,  Chennai",10.0,17.0,29.0
+2014-09-26,"Thiruvottiyur,  Chennai",11.0,15.0,36.0
+2014-10-01,"Thiruvottiyur,  Chennai",12.0,16.0,41.0
+2014-10-08,"Thiruvottiyur,  Chennai",13.0,12.0,40.0
+2014-10-10,"Thiruvottiyur,  Chennai",13.0,15.0,36.0
+2014-10-15,"Thiruvottiyur,  Chennai",14.0,14.0,33.0
+2014-10-24,"Thiruvottiyur,  Chennai",18.0,18.0,40.0
+2014-10-29,"Thiruvottiyur,  Chennai",12.0,14.0,46.0
+2014-10-31,"Thiruvottiyur,  Chennai",11.0,13.0,55.0
+2014-11-05,"Thiruvottiyur,  Chennai",12.0,12.0,54.0
+2014-11-07,"Thiruvottiyur,  Chennai",10.0,13.0,57.0
+2014-11-14,"Thiruvottiyur,  Chennai",10.0,14.0,30.0
+2014-11-19,"Thiruvottiyur,  Chennai",13.0,15.0,32.0
+2014-11-21,"Thiruvottiyur,  Chennai",10.0,17.0,49.0
+2014-11-26,"Thiruvottiyur,  Chennai",12.0,14.0,59.0
+2014-11-28,"Thiruvottiyur,  Chennai",10.0,11.0,49.0
+2014-12-03,"Thiruvottiyur,  Chennai",12.0,13.0,60.0
+2014-12-05,"Thiruvottiyur,  Chennai",11.0,12.0,52.0
+2014-12-10,"Thiruvottiyur,  Chennai",12.0,14.0,46.0
+2014-12-12,"Thiruvottiyur,  Chennai",13.0,13.0,45.0
+2014-12-17,"Thiruvottiyur,  Chennai",10.0,16.0,50.0
+2014-12-19,"Thiruvottiyur,  Chennai",12.0,13.0,49.0
+2014-12-24,"Thiruvottiyur,  Chennai",12.0,11.0,44.0
+2014-12-26,"Thiruvottiyur,  Chennai",13.0,13.0,50.0
+2014-12-31,"Thiruvottiyur,  Chennai",11.0,11.0,50.0
+2015-01-04,"Thiruvottiyur,  Chennai",11.0,12.0,35.0
+2015-01-07,"Thiruvottiyur,  Chennai",12.0,15.0,52.0
+2015-01-14,"Thiruvottiyur,  Chennai",15.0,25.0,46.0
+2015-01-21,"Thiruvottiyur,  Chennai",11.0,14.0,47.0
+2015-01-23,"Thiruvottiyur,  Chennai",11.0,14.0,39.0
+2015-01-28,"Thiruvottiyur,  Chennai",12.0,13.0,49.0
+2015-01-30,"Thiruvottiyur,  Chennai",11.0,14.0,58.0
+2015-02-01,"Thiruvottiyur,  Chennai",10.0,13.0,47.0
+2015-02-13,"Thiruvottiyur,  Chennai",10.0,13.0,46.0
+2015-02-18,"Thiruvottiyur,  Chennai",10.0,15.0,40.0
+2015-02-20,"Thiruvottiyur,  Chennai",14.0,12.0,42.0
+2015-02-25,"Thiruvottiyur,  Chennai",10.0,12.0,37.0
+2015-02-27,"Thiruvottiyur,  Chennai",13.0,16.0,48.0
+2015-03-06,"Thiruvottiyur,  Chennai",12.0,17.0,36.0
+2015-03-07,"Thiruvottiyur,  Chennai",11.0,18.0,59.0
+2015-03-13,"Thiruvottiyur,  Chennai",13.0,16.0,70.0
+2015-03-18,"Thiruvottiyur,  Chennai",11.0,14.0,63.0
+2015-03-20,"Thiruvottiyur,  Chennai",13.0,13.0,60.0
+2015-03-25,"Thiruvottiyur,  Chennai",10.0,16.0,61.0
+2015-03-27,"Thiruvottiyur,  Chennai",13.0,13.0,64.0
+2015-04-02,"Thiruvottiyur,  Chennai",10.0,13.0,53.0
+2015-04-03,"Thiruvottiyur,  Chennai",11.0,13.0,63.0
+2015-04-11,"Thiruvottiyur,  Chennai",12.0,17.0,39.0
+2015-04-15,"Thiruvottiyur,  Chennai",12.0,16.0,25.0
+2015-04-17,"Thiruvottiyur,  Chennai",11.0,13.0,34.0
+2015-04-22,"Thiruvottiyur,  Chennai",13.0,16.0,40.0
+2015-04-24,"Thiruvottiyur,  Chennai",10.0,14.0,45.0
+2015-04-29,"Thiruvottiyur,  Chennai",14.0,13.0,32.0
+2015-05-06,"Thiruvottiyur,  Chennai",11.0,17.0,33.0
+2015-05-08,"Thiruvottiyur,  Chennai",12.0,14.0,45.0
+2015-05-13,"Thiruvottiyur,  Chennai",14.0,12.0,42.0
+2015-05-15,"Thiruvottiyur,  Chennai",12.0,14.0,30.0
+2015-05-20,"Thiruvottiyur,  Chennai",13.0,16.0,41.0
+2015-05-22,"Thiruvottiyur,  Chennai",14.0,12.0,44.0
+2015-05-27,"Thiruvottiyur,  Chennai",14.0,14.0,53.0
+2015-05-29,"Thiruvottiyur,  Chennai",10.0,14.0,39.0
+2015-06-02,"Thiruvottiyur,  Chennai",11.0,13.0,46.0
+2015-06-03,"Thiruvottiyur,  Chennai",12.0,16.0,45.0
+2015-06-05,"Thiruvottiyur,  Chennai",11.0,14.0,31.0
+2015-06-11,"Thiruvottiyur,  Chennai",13.0,18.0,37.0
+2015-06-19,"Thiruvottiyur,  Chennai",12.0,17.0,41.0
+2015-06-24,"Thiruvottiyur,  Chennai",11.0,16.0,43.0
+2015-06-26,"Thiruvottiyur,  Chennai",14.0,17.0,47.0
+2015-07-01,"Thiruvottiyur,  Chennai",11.0,14.0,48.0
+2015-07-08,"Thiruvottiyur,  Chennai",15.0,17.0,44.0
+2015-07-10,"Thiruvottiyur,  Chennai",11.0,14.0,38.0
+2015-07-15,"Thiruvottiyur,  Chennai",11.0,16.0,50.0
+2015-07-17,"Thiruvottiyur,  Chennai",14.0,14.0,37.0
+2015-07-22,"Thiruvottiyur,  Chennai",14.0,16.0,56.0
+2015-07-24,"Thiruvottiyur,  Chennai",10.0,15.0,38.0
+2015-07-29,"Thiruvottiyur,  Chennai",12.0,14.0,40.0
+2015-07-31,"Thiruvottiyur,  Chennai",14.0,18.0,36.0
+2015-08-04,"Thiruvottiyur,  Chennai",10.0,14.0,34.0
+2015-08-05,"Thiruvottiyur,  Chennai",12.0,17.0,32.0
+2015-08-07,"Thiruvottiyur,  Chennai",14.0,17.0,45.0
+2015-08-14,"Thiruvottiyur,  Chennai",14.0,15.0,43.0
+2015-08-19,"Thiruvottiyur,  Chennai",11.0,13.0,32.0
+2015-08-21,"Thiruvottiyur,  Chennai",13.0,15.0,44.0
+2015-08-26,"Thiruvottiyur,  Chennai",14.0,15.0,36.0
+2015-08-28,"Thiruvottiyur,  Chennai",12.0,13.0,38.0
+2015-09-01,"Thiruvottiyur,  Chennai",10.0,15.0,73.0
+2015-09-10,"Thiruvottiyur,  Chennai",13.0,14.0,55.0
+2015-09-12,"Thiruvottiyur,  Chennai",11.0,15.0,42.0
+2015-10-04,"Thiruvottiyur,  Chennai",13.0,16.0,40.0
+2015-10-06,"Thiruvottiyur,  Chennai",11.0,16.0,44.0
+2015-10-07,"Thiruvottiyur,  Chennai",14.0,14.0,35.0
+2015-10-14,"Thiruvottiyur,  Chennai",14.0,17.0,49.0
+2015-10-16,"Thiruvottiyur,  Chennai",14.0,17.0,75.0
+2015-10-23,"Thiruvottiyur,  Chennai",12.0,14.0,74.0
+2015-10-28,"Thiruvottiyur,  Chennai",14.0,16.0,50.0
+2015-11-02,"Thiruvottiyur,  Chennai",13.0,12.0,52.0
+2015-11-03,"Thiruvottiyur,  Chennai",11.0,14.0,76.0
+2015-11-11,"Thiruvottiyur,  Chennai",17.0,22.0,56.0
+2015-11-12,"Thiruvottiyur,  Chennai",13.0,16.0,44.0
+2015-11-13,"Thiruvottiyur,  Chennai",15.0,18.0,72.0
+2015-11-18,"Thiruvottiyur,  Chennai",12.0,17.0,57.0
+2015-11-20,"Thiruvottiyur,  Chennai",14.0,18.0,45.0
+2015-11-25,"Thiruvottiyur,  Chennai",13.0,17.0,64.0
+2015-11-27,"Thiruvottiyur,  Chennai",12.0,18.0,44.0
+2015-12-06,"Thiruvottiyur,  Chennai",13.0,20.0,36.0
+2015-12-08,"Thiruvottiyur,  Chennai",11.0,12.0,48.0
+2015-12-16,"Thiruvottiyur,  Chennai",13.0,16.0,44.0
+2015-12-18,"Thiruvottiyur,  Chennai",14.0,14.0,38.0
+2015-12-23,"Thiruvottiyur,  Chennai",15.0,13.0,47.0
+2015-12-30,"Thiruvottiyur,  Chennai",11.0,18.0,55.0

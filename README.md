@@ -95,6 +95,10 @@ Since the dataset is available yearwise, we also need to append all of the clean
 ![img2](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/data_interpolation.png?raw=true)
 *Dataset after interpolation*
 
+Let us view the yearwise mean concentration of each pollutant for each of the three locations.
+![img4](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/mean_grouped_bar.png?raw=true)
+*Mean concentration of NO2, CO2, and RSPM/PM10*
+
 ![img3](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/thiruv_daily_data.png?raw=true)
 *Daily NO2 data for Thiruvottiyur*
 
@@ -131,6 +135,7 @@ plt.show()
 
 ![rmse](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/rmse.png?token=GHSAT0AAAAAAB7WFMCTAC7TBACZOPGW4STGZBNLU4A)
 
+Normalised RMSE is a metric used to compare model performance on a scale of 0-1. The closer the value of nRMSE is to 0, the better the performance. Therefore, our best performing model is our deep learning algorithm. 
 Let us predict the value of NO2 emissions for Kathivakkam, Municipal Kalyana Mandapam, Chennai using our new model.
 
 ![forecast](https://raw.githubusercontent.com/dnezan/air-quality-forecasting-azureAutoML/master/img/forecast_100days.png?token=GHSAT0AAAAAAB7WFMCTF7P6MIV6G5ZZZIJWZBNLVSA)
