@@ -3,7 +3,7 @@
 
 ## Overview
  
-This project focuses on using **Azure AutoML** and **Python SDK** to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution.
+This project focuses on using **Azure AutoML** and **Python SDK** to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution. Compared to traditional machine learning workflows, Azure AutoML offers better accuracy, scaling, integration, and is time saving.
 
 ![diagram](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/azure_air_forecasting.png?raw=true)
 
@@ -37,6 +37,8 @@ To run this project in Azure AutoML, you will need to add the following environm
 `resource_group`
 
 `workspace-name`
+
+You can find these values in your workspace settings in the Azure Portal.
 
 ## Dataset
 
@@ -179,6 +181,7 @@ Using these labels, this problem statement can also be extended into a classific
 By using the formula above, assuming NO2 is the primary pollutant in Chennai, the average of our 100=day forecast window gives us an average pollutant concentration level of 15.87, which gives us a **Good** air quality rating.
 
 AQI = 15.8
+
 ![Good](https://via.placeholder.com/30/00ff00?text=+) Good
 
 ## References
