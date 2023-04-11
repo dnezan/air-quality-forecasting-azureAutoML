@@ -3,7 +3,7 @@
 
 ## Overview
  
-This project focuses on using **Azure AutoML** and **Python SDK** to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution. Compared to traditional machine learning workflows, Azure AutoML offers better accuracy, scaling, integration, and is time saving.
+This project focuses on using **Azure AutoML** and **Python SDK** to build a time series forecasting model for air quality in my home city, Chennai. By leveraging AutoML's automated machine learning capabilities and the flexibility of Python SDK, the model aims to predict future air quality with high accuracy, enabling government agencies and individuals to make data-driven decisions to combat air pollution. Compared to traditional machine learning workflows, Azure AutoML offers better accuracy, scaling, integration, and is hugely time saving.
 
 ![diagram](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/azure_air_forecasting.png?raw=true)
 
@@ -100,7 +100,7 @@ Since the dataset is available yearwise, we also need to append all of the clean
 *Dataset after interpolation*
 
 Let us view the yearwise mean concentration of each pollutant for each of the three locations.
-![img4](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/mean_grouped_bar.png?raw=true)
+![img4](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/mean_grouped_bar2.png?raw=true)
 *Mean concentration of NO2, CO2, and RSPM/PM10*
 
 ![img3](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/thiruv_daily_data.png?raw=true)
