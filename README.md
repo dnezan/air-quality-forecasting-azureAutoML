@@ -109,8 +109,8 @@ Let us view the yearwise mean concentration of each pollutant for each of the th
 *Mean concentration of NO2, CO2, and RSPM/PM10*
 
 
-Let us view the yearwise mean concentration of each pollutant for each of the three locations.
 ![img5](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/heatmap.png?raw=true)
+
 *Heatmap showing data availability and NO2 concentration spikes*
 
 
