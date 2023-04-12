@@ -93,6 +93,9 @@ The data is first cleaned and preprocessed using Pandas to regularise the date f
 
 Since the dataset is available yearwise, we also need to append all of the cleaned files to create our training set.
 
+## Exploratory Data Analysis
+
+
 ![img1](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/data_no_interpolation.png?raw=true)
 *Dataset before interpolation*
 
@@ -102,6 +105,10 @@ Since the dataset is available yearwise, we also need to append all of the clean
 Let us view the yearwise mean concentration of each pollutant for each of the three locations.
 ![img4](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/mean_grouped_bar2.png?raw=true)
 *Mean concentration of NO2, CO2, and RSPM/PM10*
+
+Let us view the yearwise mean concentration of each pollutant for each of the three locations.
+![img5](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/heatmap.png?raw=true)
+*Heatmap showing data availability and NO2 concentration spikes*
 
 ![img3](https://github.com/dnezan/air-quality-forecasting-azureAutoML/blob/master/img/thiruv_daily_data.png?raw=true)
 *Daily NO2 data for Thiruvottiyur*
